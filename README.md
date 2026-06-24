@@ -1,1 +1,0 @@
-# encuesta_seguridad

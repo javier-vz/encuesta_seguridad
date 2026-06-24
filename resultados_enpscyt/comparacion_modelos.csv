@@ -1,0 +1,3 @@
+modelo,AIC,LogLik,Df_model,N,delta_AIC_vs_base
+Base sociodemográfico,3443.3747637910255,-1700.6873818955128,20,2854,0.0
+Base + índices de red,3344.790285029316,-1642.395142514658,29,2854,-98.58447876170976
