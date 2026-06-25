@@ -1,0 +1,430 @@
+source,target,rho,abs_rho,sign,source_community,target_community,source_label,target_label
+P24_1,P24_2,0.7215232774804062,0.7215232774804062,1,6,6,"P24_1 Como considera que son las condiciones de Infraestructuras (edificios, laboratorios, etc.)","P24_2 Como considera que son las condiciones de Equipamientos (materiales, máquinas, insumos, etc.)"
+P9_4,P9_5,0.6520750432000292,0.6520750432000292,1,1,1,P9_4 Lee revistas de divulgación científica,P9_5 Lee libros de divulgación científica
+P9_6,P9_7,0.65013230441026,0.65013230441026,1,1,1,P9_6 Usa Internet para buscar información científica,"P9_7 Usa las redes sociales para compartir o informarse sobre temas científicos . Sí selecciono la opción 1 o 2, pasar a..."
+P24_4,P24_5,0.6419964740026585,0.6419964740026585,1,6,6,P24_4 Como considera que son las condiciones de para conseguir trabajo en una universidad o instituto público de investi...,P24_5 Como considera que son las condiciones de para conseguir trabajo en una empresa
+P6_4,P7_4,0.623730615689604,0.623730615689604,1,5,5,P6_4 Nivel de interés en Religión,P7_4 Nivel de información en Religión
+P37_3,P37_4,0.603548529521665,0.603548529521665,1,2,2,P37_3 Nivel de acuerdo con que la IA Favorece el desarrollo de la economía,P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida
+P26_1,P26_9,0.6032183133257895,0.6032183133257895,1,2,2,P26_1 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,P26_9 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.
+P6_8,P7_8,0.5952297132245945,0.5952297132245945,1,1,1,P6_8 Nivel de interés en Astrología y esoterismo,P7_8 Nivel de información en Astrología y esoterismo
+P6_1,P7_1,0.5907418681163893,0.5907418681163893,1,1,1,P6_1 Nivel de interés en Deportes,P7_1 Nivel de información en Deportes
+P37_4,P37_6,0.5744285038732024,0.5744285038732024,1,2,2,P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida,P37_6 Nivel de acuerdo con que la IA Será una buena compañía para nuestra vida cotidiana
+P37_13,P37_15,0.5700680046085876,0.5700680046085876,1,2,2,P37_13 Nivel de acuerdo con que la IA Nos ayudará a cuidar mejor nuestra salud,P37_15 Nivel de acuerdo con que la IA Nos ayuda a tomar mejores decisiones
+P37_9,P37_11,0.5689602801892452,0.5689602801892452,1,4,4,P37_9 Nivel de acuerdo con que la IA Aumentará el dominio de las máquinas sobre las personas,P37_11 Nivel de acuerdo con que la IA Hará que se pierdan más puestos de trabajo
+P30_1,P30_2,0.5684501107076725,0.5684501107076725,1,2,2,P30_1 Gracias a la ciencia y la tecnología nuestros hijos van a tener más oportunidades.,P30_2 La ciencia hace que nuestro modo de vida cambie demasiado rápido.
+P11,P12,0.5643044755319991,0.5643044755319991,1,6,6,P11 Qué tan atractiva diría que es la profesión de Científico,P12 Qué tan gratificante diría que es la profesión de Científico
+P37_6,P37_10,0.5624796841492956,0.5624796841492956,1,2,2,P37_6 Nivel de acuerdo con que la IA Será una buena compañía para nuestra vida cotidiana,P37_10 Nivel de acuerdo con que la IA Mejora la evolución de la sociedad
+P4_6,P4_8,0.5575582264540933,0.5575582264540933,1,3,3,P4_6 Destaque de Perú en Desarrollo de tecnologías,P4_8 Destaque de Perú en Investigación científica
+P6_5,P7_5,0.5508068992957011,0.5508068992957011,1,1,1,P6_5 Nivel de interés en Ciencia y tecnología,P7_5 Nivel de información en Ciencia y tecnología
+P37_6,P37_15,0.5491154217880002,0.5491154217880002,1,2,2,P37_6 Nivel de acuerdo con que la IA Será una buena compañía para nuestra vida cotidiana,P37_15 Nivel de acuerdo con que la IA Nos ayuda a tomar mejores decisiones
+P6_7,P7_7,0.5466155438294491,0.5466155438294491,1,1,1,P6_7 Nivel de interés en Arte y cultura,P7_7 Nivel de información en Arte y cultura
+P6_5,P6_9,0.5413758909483612,0.5413758909483612,1,1,1,P6_5 Nivel de interés en Ciencia y tecnología,P6_9 Nivel de interés en Medioambiente y ecología
+P6_2,P7_2,0.5347472883815564,0.5347472883815564,1,1,1,P6_2 Nivel de interés en Política,P7_2 Nivel de información en Política
+P7_5,P7_9,0.5321952557506242,0.5321952557506242,1,1,1,P7_5 Nivel de información en Ciencia y tecnología,P7_9 Nivel de información en Medioambiente y ecología
+P37_4,P37_15,0.5296675159472657,0.5296675159472657,1,2,2,P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida,P37_15 Nivel de acuerdo con que la IA Nos ayuda a tomar mejores decisiones
+P37_4,P37_13,0.5244590615820955,0.5244590615820955,1,2,2,P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida,P37_13 Nivel de acuerdo con que la IA Nos ayudará a cuidar mejor nuestra salud
+P4_5,P4_9,0.5239868852492829,0.5239868852492829,1,3,3,P4_5 Destaque de Perú en Salud,P4_9 Destaque de Perú en Educación
+P3_3,P3_9,0.5232766686937921,0.5232766686937921,1,5,5,P3_3 Aprecio por la profesión de Médico,P3_9 Aprecio por la profesión de Ingeniero
+P37_5,P37_12,0.5184487777590363,0.5184487777590363,1,4,4,P37_5 Nivel de acuerdo con que la IA Generará muchos más daños que beneficios,P37_12 Nivel de acuerdo con que la IA Creará muchos más problemas que soluciones
+P3_3,P3_6,0.5159121333411264,0.5159121333411264,1,5,5,P3_3 Aprecio por la profesión de Médico,P3_6 Aprecio por la profesión de Científico
+P26_9,P30_2,0.515404182625232,0.515404182625232,1,2,2,P26_9 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,P30_2 La ciencia hace que nuestro modo de vida cambie demasiado rápido.
+P3_3,P3_8,0.5136747423963385,0.5136747423963385,1,5,5,P3_3 Aprecio por la profesión de Médico,P3_8 Aprecio por la profesión de Profesor
+P37_9,P37_16,0.5130557441908886,0.5130557441908886,1,4,4,P37_9 Nivel de acuerdo con que la IA Aumentará el dominio de las máquinas sobre las personas,P37_16 Nivel de acuerdo con que la IA Controlará nuestra vida privada
+P3_6,P3_9,0.5109517594162922,0.5109517594162922,1,5,5,P3_6 Aprecio por la profesión de Científico,P3_9 Aprecio por la profesión de Ingeniero
+P6_5,P6_7,0.5080108907574671,0.5080108907574671,1,1,1,P6_5 Nivel de interés en Ciencia y tecnología,P6_7 Nivel de interés en Arte y cultura
+P37_4,P37_10,0.5071068083189711,0.5071068083189711,1,2,2,P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida,P37_10 Nivel de acuerdo con que la IA Mejora la evolución de la sociedad
+P9_2,P9_3,0.5071007504127877,0.5071007504127877,1,1,1,P9_2 Lee las noticias científicas que se publican en los diarios,P9_3 Escucha programas o secciones de radio que tratan sobre temas de ciencia y tecnología
+P37_6,P37_13,0.5070535073508678,0.5070535073508678,1,2,2,P37_6 Nivel de acuerdo con que la IA Será una buena compañía para nuestra vida cotidiana,P37_13 Nivel de acuerdo con que la IA Nos ayudará a cuidar mejor nuestra salud
+P6_4,P3_5,0.5059010607894282,0.5059010607894282,1,5,5,P6_4 Nivel de interés en Religión,P3_5 Aprecio por la profesión de Religioso
+P24_1,P24_3,0.5037301065244398,0.5037301065244398,1,6,6,"P24_1 Como considera que son las condiciones de Infraestructuras (edificios, laboratorios, etc.)",P24_3 Como considera que son las condiciones de Salarios
+P9_2,P9_4,0.5029188690125461,0.5029188690125461,1,1,1,P9_2 Lee las noticias científicas que se publican en los diarios,P9_4 Lee revistas de divulgación científica
+P26_9,P30_1,0.5028972694489847,0.5028972694489847,1,2,2,P26_9 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,P30_1 Gracias a la ciencia y la tecnología nuestros hijos van a tener más oportunidades.
+P24_3,P24_4,0.5022130654940994,0.5022130654940994,1,6,6,P24_3 Como considera que son las condiciones de Salarios,P24_4 Como considera que son las condiciones de para conseguir trabajo en una universidad o instituto público de investi...
+P6_7,P6_9,0.5009694408222126,0.5009694408222126,1,1,1,P6_7 Nivel de interés en Arte y cultura,P6_9 Nivel de interés en Medioambiente y ecología
+P1_1,P1_4,0.49920226081281366,0.49920226081281366,1,8,8,P1_1 Nivel de satisfacción con la situación social del país,P1_4 Nivel de satisfacción con la calidad de la democracia
+P37_9,P37_12,0.4990551041845903,0.4990551041845903,1,4,4,P37_9 Nivel de acuerdo con que la IA Aumentará el dominio de las máquinas sobre las personas,P37_12 Nivel de acuerdo con que la IA Creará muchos más problemas que soluciones
+P9_1,P9_6,0.49875967935644716,0.49875967935644716,1,1,1,"P9_1 Mira programas o documentales de TV sobre ciencia, tecnología o naturaleza",P9_6 Usa Internet para buscar información científica
+P6_9,P7_9,0.4973713666328447,0.4973713666328447,1,1,1,P6_9 Nivel de interés en Medioambiente y ecología,P7_9 Nivel de información en Medioambiente y ecología
+P37_10,P37_15,0.4973181994038429,0.4973181994038429,1,2,2,P37_10 Nivel de acuerdo con que la IA Mejora la evolución de la sociedad,P37_15 Nivel de acuerdo con que la IA Nos ayuda a tomar mejores decisiones
+P30_3,P30_6,0.49674906211363157,0.49674906211363157,1,2,2,P30_3 La ciencia y la tecnología eliminarán la pobreza y el hambre en el mundo.,P30_6 Gracias a la ciencia y la tecnología los recursos del planeta no se extinguirán nunca.
+P6_3,P6_9,0.4963480006977311,0.4963480006977311,1,1,1,P6_3 Nivel de interés en Economía,P6_9 Nivel de interés en Medioambiente y ecología
+P1_1,P1_2,0.4957111733784237,0.4957111733784237,1,8,8,P1_1 Nivel de satisfacción con la situación social del país,P1_2 Nivel de satisfacción con la situación económica del país
+P37_14,P37_16,0.493203422963608,0.493203422963608,1,4,4,P37_14 Nivel de acuerdo con que la IA Creará divisiones sociales,P37_16 Nivel de acuerdo con que la IA Controlará nuestra vida privada
+P30_7,P30_8,0.49108078570203423,0.49108078570203423,1,2,2,P30_7 La ciencia y la tecnología contribuyen a mejorar el medio ambiente.,P30_8 La ciencia y la tecnología pueden resolver cualquier tipo de problemas.
+P30_3,P30_8,0.49094783837020145,0.49094783837020145,1,2,2,P30_3 La ciencia y la tecnología eliminarán la pobreza y el hambre en el mundo.,P30_8 La ciencia y la tecnología pueden resolver cualquier tipo de problemas.
+P7_7,P7_9,0.49065790048305313,0.49065790048305313,1,1,1,P7_7 Nivel de información en Arte y cultura,P7_9 Nivel de información en Medioambiente y ecología
+P24_2,P24_3,0.490078743743144,0.490078743743144,1,6,6,"P24_2 Como considera que son las condiciones de Equipamientos (materiales, máquinas, insumos, etc.)",P24_3 Como considera que son las condiciones de Salarios
+P37_11,P37_12,0.4900292170707147,0.4900292170707147,1,4,4,P37_11 Nivel de acuerdo con que la IA Hará que se pierdan más puestos de trabajo,P37_12 Nivel de acuerdo con que la IA Creará muchos más problemas que soluciones
+P6_6,P6_9,0.48590439134578267,0.48590439134578267,1,1,1,P6_6 Nivel de interés en Medicina y salud,P6_9 Nivel de interés en Medioambiente y ecología
+P3_4,P3_9,0.48435650713045036,0.48435650713045036,1,5,5,P3_4 Aprecio por la profesión de Empresario,P3_9 Aprecio por la profesión de Ingeniero
+P4_2,P4_6,0.4842695113554702,0.4842695113554702,1,3,3,P4_2 Destaque de Perú en Desarrollo de la industria,P4_6 Destaque de Perú en Desarrollo de tecnologías
+P7_2,P7_3,0.48238259610646733,0.48238259610646733,1,1,1,P7_2 Nivel de información en Política,P7_3 Nivel de información en Economía
+P37_11,P37_14,0.4817113319653777,0.4817113319653777,1,4,4,P37_11 Nivel de acuerdo con que la IA Hará que se pierdan más puestos de trabajo,P37_14 Nivel de acuerdo con que la IA Creará divisiones sociales
+P37_3,P37_6,0.47813697586496706,0.47813697586496706,1,2,2,P37_3 Nivel de acuerdo con que la IA Favorece el desarrollo de la economía,P37_6 Nivel de acuerdo con que la IA Será una buena compañía para nuestra vida cotidiana
+P37_9,P37_14,0.47432065329601397,0.47432065329601397,1,4,4,P37_9 Nivel de acuerdo con que la IA Aumentará el dominio de las máquinas sobre las personas,P37_14 Nivel de acuerdo con que la IA Creará divisiones sociales
+P37_5,P37_8,0.4728204468331717,0.4728204468331717,1,4,4,P37_5 Nivel de acuerdo con que la IA Generará muchos más daños que beneficios,P37_8 Nivel de acuerdo con que la IA Es negativa para el desarrollo de la sociedad
+P6_3,P7_3,0.4719060564191002,0.4719060564191002,1,1,1,P6_3 Nivel de interés en Economía,P7_3 Nivel de información en Economía
+P37_10,P37_13,0.47104469295427237,0.47104469295427237,1,2,2,P37_10 Nivel de acuerdo con que la IA Mejora la evolución de la sociedad,P37_13 Nivel de acuerdo con que la IA Nos ayudará a cuidar mejor nuestra salud
+P12,P14,0.47034594315311634,0.47034594315311634,1,6,6,P12 Qué tan gratificante diría que es la profesión de Científico,P14 Qué tan prestigiosa diría que es la profesión de Científico
+P6_5,P6_6,0.46960393113028825,0.46960393113028825,1,1,1,P6_5 Nivel de interés en Ciencia y tecnología,P6_6 Nivel de interés en Medicina y salud
+P7_5,P7_7,0.4693534746314414,0.4693534746314414,1,1,1,P7_5 Nivel de información en Ciencia y tecnología,P7_7 Nivel de información en Arte y cultura
+P6_3,P6_6,0.46910286419451247,0.46910286419451247,1,1,1,P6_3 Nivel de interés en Economía,P6_6 Nivel de interés en Medicina y salud
+P37_2,P37_5,0.46891906702932007,0.46891906702932007,1,4,4,P37_2 Nivel de acuerdo con que la IA Amenaza el desarrollo de la sociedad,P37_5 Nivel de acuerdo con que la IA Generará muchos más daños que beneficios
+P9_3,P9_4,0.46867497958892756,0.46867497958892756,1,1,1,P9_3 Escucha programas o secciones de radio que tratan sobre temas de ciencia y tecnología,P9_4 Lee revistas de divulgación científica
+P30_6,P30_8,0.46779669761373693,0.46779669761373693,1,2,2,P30_6 Gracias a la ciencia y la tecnología los recursos del planeta no se extinguirán nunca.,P30_8 La ciencia y la tecnología pueden resolver cualquier tipo de problemas.
+P37_12,P37_14,0.4658809304688069,0.4658809304688069,1,4,4,P37_12 Nivel de acuerdo con que la IA Creará muchos más problemas que soluciones,P37_14 Nivel de acuerdo con que la IA Creará divisiones sociales
+P37_3,P37_15,0.46561994681990493,0.46561994681990493,1,2,2,P37_3 Nivel de acuerdo con que la IA Favorece el desarrollo de la economía,P37_15 Nivel de acuerdo con que la IA Nos ayuda a tomar mejores decisiones
+P9_1,P9_2,0.4646741826004689,0.4646741826004689,1,1,1,"P9_1 Mira programas o documentales de TV sobre ciencia, tecnología o naturaleza",P9_2 Lee las noticias científicas que se publican en los diarios
+P26_3,P26_9,0.46420766389726115,0.46420766389726115,1,2,2,"P26_3 La ciencia y la tecnología van a ayudar a curar enfermedades como el Sida, el cáncer, etcétera.",P26_9 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.
+P3_8,P3_9,0.46406608705891655,0.46406608705891655,1,5,5,P3_8 Aprecio por la profesión de Profesor,P3_9 Aprecio por la profesión de Ingeniero
+P37_1,P37_6,0.46383796883985057,0.46383796883985057,1,2,2,P37_1 Nivel de acuerdo con que la IA Resolverá complejos problemas sociales,P37_6 Nivel de acuerdo con que la IA Será una buena compañía para nuestra vida cotidiana
+P37_11,P37_16,0.4637857997321678,0.4637857997321678,1,4,4,P37_11 Nivel de acuerdo con que la IA Hará que se pierdan más puestos de trabajo,P37_16 Nivel de acuerdo con que la IA Controlará nuestra vida privada
+P1_1,P1_3,0.46313170217406496,0.46313170217406496,1,8,8,P1_1 Nivel de satisfacción con la situación social del país,P1_3 Nivel de satisfacción con la situación ambiental del país
+P30_2,P30_5,0.4631274357214722,0.4631274357214722,1,2,4,P30_2 La ciencia hace que nuestro modo de vida cambie demasiado rápido.,P30_5 La ciencia y la tecnología están produciendo un estilo de vida artificial.
+P7_6,P7_9,0.4616995062527922,0.4616995062527922,1,1,1,P7_6 Nivel de información en Medicina y salud,P7_9 Nivel de información en Medioambiente y ecología
+P26_3,P30_1,0.46165379689696945,0.46165379689696945,1,2,2,"P26_3 La ciencia y la tecnología van a ayudar a curar enfermedades como el Sida, el cáncer, etcétera.",P30_1 Gracias a la ciencia y la tecnología nuestros hijos van a tener más oportunidades.
+P37_6,P37_7,0.4614833966619734,0.4614833966619734,1,2,2,P37_6 Nivel de acuerdo con que la IA Será una buena compañía para nuestra vida cotidiana,P37_7 Nivel de acuerdo con que la IA Ayudará a crear más empleos
+P7_3,P7_9,0.4613530617404288,0.4613530617404288,1,1,1,P7_3 Nivel de información en Economía,P7_9 Nivel de información en Medioambiente y ecología
+P4_2,P4_8,0.4584831513158826,0.4584831513158826,1,3,3,P4_2 Destaque de Perú en Desarrollo de la industria,P4_8 Destaque de Perú en Investigación científica
+P6_3,P6_5,0.45778703859834613,0.45778703859834613,1,1,1,P6_3 Nivel de interés en Economía,P6_5 Nivel de interés en Ciencia y tecnología
+P3_3,P3_4,0.4577306548023892,0.4577306548023892,1,5,5,P3_3 Aprecio por la profesión de Médico,P3_4 Aprecio por la profesión de Empresario
+P4_3,P4_4,0.4571011342589713,0.4571011342589713,1,3,3,P4_3 Destaque de Perú en Agricultura y ganadería,P4_4 Destaque de Perú en Minería
+P4_13,P4_14,0.45640750267820607,0.45640750267820607,1,3,3,P4_13 Destaque de Perú en Obras públicas,P4_14 Destaque de Perú en Vivienda
+P37_12,P37_16,0.45480522501364384,0.45480522501364384,1,4,4,P37_12 Nivel de acuerdo con que la IA Creará muchos más problemas que soluciones,P37_16 Nivel de acuerdo con que la IA Controlará nuestra vida privada
+P3_6,P3_8,0.45442013836290635,0.45442013836290635,1,5,5,P3_6 Aprecio por la profesión de Científico,P3_8 Aprecio por la profesión de Profesor
+P3_4,P3_6,0.4537266935112124,0.4537266935112124,1,5,5,P3_4 Aprecio por la profesión de Empresario,P3_6 Aprecio por la profesión de Científico
+P4_4,P4_10,0.45330490861451656,0.45330490861451656,1,3,3,P4_4 Destaque de Perú en Minería,P4_10 Destaque de Perú en Turismo
+P37_1,P37_4,0.4525544813918136,0.4525544813918136,1,2,2,P37_1 Nivel de acuerdo con que la IA Resolverá complejos problemas sociales,P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida
+P37_1,P37_10,0.45048935933002304,0.45048935933002304,1,2,2,P37_1 Nivel de acuerdo con que la IA Resolverá complejos problemas sociales,P37_10 Nivel de acuerdo con que la IA Mejora la evolución de la sociedad
+P4_12,P4_14,0.4493540621785817,0.4493540621785817,1,3,3,P4_12 Destaque de Perú en Energía,P4_14 Destaque de Perú en Vivienda
+P26_3,P30_2,0.44884679212058787,0.44884679212058787,1,2,2,"P26_3 La ciencia y la tecnología van a ayudar a curar enfermedades como el Sida, el cáncer, etcétera.",P30_2 La ciencia hace que nuestro modo de vida cambie demasiado rápido.
+P9_2,P9_5,0.4483891830518752,0.4483891830518752,1,1,1,P9_2 Lee las noticias científicas que se publican en los diarios,P9_5 Lee libros de divulgación científica
+P37_2,P37_12,0.4472902400892915,0.4472902400892915,1,4,4,P37_2 Nivel de acuerdo con que la IA Amenaza el desarrollo de la sociedad,P37_12 Nivel de acuerdo con que la IA Creará muchos más problemas que soluciones
+P4_5,P4_13,0.44621054842765767,0.44621054842765767,1,3,3,P4_5 Destaque de Perú en Salud,P4_13 Destaque de Perú en Obras públicas
+P9_4,P9_6,0.4456043355687205,0.4456043355687205,1,1,1,P9_4 Lee revistas de divulgación científica,P9_6 Usa Internet para buscar información científica
+P26_1,P26_3,0.44498534216707575,0.44498534216707575,1,2,2,P26_1 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,"P26_3 La ciencia y la tecnología van a ayudar a curar enfermedades como el Sida, el cáncer, etcétera."
+P37_3,P37_10,0.44486841036999136,0.44486841036999136,1,2,2,P37_3 Nivel de acuerdo con que la IA Favorece el desarrollo de la economía,P37_10 Nivel de acuerdo con que la IA Mejora la evolución de la sociedad
+P6_6,P7_6,0.4430972322674525,0.4430972322674525,1,1,1,P6_6 Nivel de interés en Medicina y salud,P7_6 Nivel de información en Medicina y salud
+P30_3,P37_1,0.4429712654966852,0.4429712654966852,1,2,2,P30_3 La ciencia y la tecnología eliminarán la pobreza y el hambre en el mundo.,P37_1 Nivel de acuerdo con que la IA Resolverá complejos problemas sociales
+P1_2,P1_4,0.4427083088236149,0.4427083088236149,1,8,8,P1_2 Nivel de satisfacción con la situación económica del país,P1_4 Nivel de satisfacción con la calidad de la democracia
+P9_3,P9_5,0.4418839708441752,0.4418839708441752,1,1,1,P9_3 Escucha programas o secciones de radio que tratan sobre temas de ciencia y tecnología,P9_5 Lee libros de divulgación científica
+P4_6,P4_12,0.4416936595223101,0.4416936595223101,1,3,3,P4_6 Destaque de Perú en Desarrollo de tecnologías,P4_12 Destaque de Perú en Energía
+P4_2,P4_12,0.44166269978322087,0.44166269978322087,1,3,3,P4_2 Destaque de Perú en Desarrollo de la industria,P4_12 Destaque de Perú en Energía
+P7_5,P7_6,0.4415430913227726,0.4415430913227726,1,1,1,P7_5 Nivel de información en Ciencia y tecnología,P7_6 Nivel de información en Medicina y salud
+P37_3,P37_13,0.4413461664391415,0.4413461664391415,1,2,2,P37_3 Nivel de acuerdo con que la IA Favorece el desarrollo de la economía,P37_13 Nivel de acuerdo con que la IA Nos ayudará a cuidar mejor nuestra salud
+P7_3,P7_6,0.44013647050053556,0.44013647050053556,1,1,1,P7_3 Nivel de información en Economía,P7_6 Nivel de información en Medicina y salud
+P7_3,P7_5,0.43956230955380093,0.43956230955380093,1,1,1,P7_3 Nivel de información en Economía,P7_5 Nivel de información en Ciencia y tecnología
+P37_8,P37_12,0.43919190119548407,0.43919190119548407,1,4,4,P37_8 Nivel de acuerdo con que la IA Es negativa para el desarrollo de la sociedad,P37_12 Nivel de acuerdo con que la IA Creará muchos más problemas que soluciones
+P9_1,P9_3,0.437780841384971,0.437780841384971,1,1,1,"P9_1 Mira programas o documentales de TV sobre ciencia, tecnología o naturaleza",P9_3 Escucha programas o secciones de radio que tratan sobre temas de ciencia y tecnología
+P24_2,P24_4,0.43752291511154123,0.43752291511154123,1,6,6,"P24_2 Como considera que son las condiciones de Equipamientos (materiales, máquinas, insumos, etc.)",P24_4 Como considera que son las condiciones de para conseguir trabajo en una universidad o instituto público de investi...
+P6_5,P9_6,0.43727889941402803,0.43727889941402803,1,1,1,P6_5 Nivel de interés en Ciencia y tecnología,P9_6 Usa Internet para buscar información científica
+P26_5,P30_3,0.4366246778175969,0.4366246778175969,1,2,2,P26_5 El desarrollo científico-tecnológico ayudará a disminuir las desigualdades sociales.,P30_3 La ciencia y la tecnología eliminarán la pobreza y el hambre en el mundo.
+P4_8,P4_12,0.4339314497748734,0.4339314497748734,1,3,3,P4_8 Destaque de Perú en Investigación científica,P4_12 Destaque de Perú en Energía
+P4_3,P4_10,0.43352205756165835,0.43352205756165835,1,3,3,P4_3 Destaque de Perú en Agricultura y ganadería,P4_10 Destaque de Perú en Turismo
+P11,P14,0.4333732267275515,0.4333732267275515,1,6,6,P11 Qué tan atractiva diría que es la profesión de Científico,P14 Qué tan prestigiosa diría que es la profesión de Científico
+P3_2,P3_10,0.4333100096369639,0.4333100096369639,1,5,5,P3_2 Aprecio por la profesión de Juez,P3_10 Aprecio por la profesión de Periodista
+P4_6,P4_11,0.4309104641786956,0.4309104641786956,1,3,3,P4_6 Destaque de Perú en Desarrollo de tecnologías,P4_11 Destaque de Perú en Medioambiente
+P9_2,P9_6,0.4300551353410514,0.4300551353410514,1,1,1,P9_2 Lee las noticias científicas que se publican en los diarios,P9_6 Usa Internet para buscar información científica
+P1_3,P1_4,0.4279076115178783,0.4279076115178783,1,8,8,P1_3 Nivel de satisfacción con la situación ambiental del país,P1_4 Nivel de satisfacción con la calidad de la democracia
+P26_1,P30_2,0.4278270532265195,0.4278270532265195,1,2,2,P26_1 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,P30_2 La ciencia hace que nuestro modo de vida cambie demasiado rápido.
+P4_5,P4_14,0.4276433768393572,0.4276433768393572,1,3,3,P4_5 Destaque de Perú en Salud,P4_14 Destaque de Perú en Vivienda
+P4_11,P4_12,0.4273569762774997,0.4273569762774997,1,3,3,P4_11 Destaque de Perú en Medioambiente,P4_12 Destaque de Perú en Energía
+P37_7,P37_10,0.42667155348575936,0.42667155348575936,1,2,2,P37_7 Nivel de acuerdo con que la IA Ayudará a crear más empleos,P37_10 Nivel de acuerdo con que la IA Mejora la evolución de la sociedad
+P30_6,P30_7,0.42632462306918445,0.42632462306918445,1,2,2,P30_6 Gracias a la ciencia y la tecnología los recursos del planeta no se extinguirán nunca.,P30_7 La ciencia y la tecnología contribuyen a mejorar el medio ambiente.
+P26_1,P30_1,0.4243709800411053,0.4243709800411053,1,2,2,P26_1 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,P30_1 Gracias a la ciencia y la tecnología nuestros hijos van a tener más oportunidades.
+P4_8,P4_11,0.42427525565991,0.42427525565991,1,3,3,P4_8 Destaque de Perú en Investigación científica,P4_11 Destaque de Perú en Medioambiente
+P4_3,P4_12,0.42424346284679926,0.42424346284679926,1,3,3,P4_3 Destaque de Perú en Agricultura y ganadería,P4_12 Destaque de Perú en Energía
+P4_8,P4_9,0.4238262002845587,0.4238262002845587,1,3,3,P4_8 Destaque de Perú en Investigación científica,P4_9 Destaque de Perú en Educación
+P4_6,P4_9,0.42298545670609344,0.42298545670609344,1,3,3,P4_6 Destaque de Perú en Desarrollo de tecnologías,P4_9 Destaque de Perú en Educación
+P7_4,P3_5,0.42268818995481483,0.42268818995481483,1,5,5,P7_4 Nivel de información en Religión,P3_5 Aprecio por la profesión de Religioso
+P24_1,P24_4,0.42201570391581916,0.42201570391581916,1,6,6,"P24_1 Como considera que son las condiciones de Infraestructuras (edificios, laboratorios, etc.)",P24_4 Como considera que son las condiciones de para conseguir trabajo en una universidad o instituto público de investi...
+P4_9,P4_14,0.4213798697218997,0.4213798697218997,1,3,3,P4_9 Destaque de Perú en Educación,P4_14 Destaque de Perú en Vivienda
+P4_2,P4_14,0.4177298651388508,0.4177298651388508,1,3,3,P4_2 Destaque de Perú en Desarrollo de la industria,P4_14 Destaque de Perú en Vivienda
+P4_11,P4_13,0.4161753788080068,0.4161753788080068,1,3,3,P4_11 Destaque de Perú en Medioambiente,P4_13 Destaque de Perú en Obras públicas
+P4_6,P4_14,0.415781864681882,0.415781864681882,1,3,3,P4_6 Destaque de Perú en Desarrollo de tecnologías,P4_14 Destaque de Perú en Vivienda
+P37_1,P37_7,0.4151138126914536,0.4151138126914536,1,2,2,P37_1 Nivel de acuerdo con que la IA Resolverá complejos problemas sociales,P37_7 Nivel de acuerdo con que la IA Ayudará a crear más empleos
+P3_1,P3_7,0.41506126559283124,0.41506126559283124,1,5,5,P3_1 Aprecio por la profesión de Artista,P3_7 Aprecio por la profesión de Deportista
+P6_1,P3_7,0.41467220838257285,0.41467220838257285,1,1,5,P6_1 Nivel de interés en Deportes,P3_7 Aprecio por la profesión de Deportista
+P4_5,P4_8,0.414068003459407,0.414068003459407,1,3,3,P4_5 Destaque de Perú en Salud,P4_8 Destaque de Perú en Investigación científica
+P1_2,P1_3,0.41387869084987666,0.41387869084987666,1,8,8,P1_2 Nivel de satisfacción con la situación económica del país,P1_3 Nivel de satisfacción con la situación ambiental del país
+P9_1,P9_4,0.4132012409287016,0.4132012409287016,1,1,1,"P9_1 Mira programas o documentales de TV sobre ciencia, tecnología o naturaleza",P9_4 Lee revistas de divulgación científica
+P37_5,P37_9,0.41256292814320966,0.41256292814320966,1,4,4,P37_5 Nivel de acuerdo con que la IA Generará muchos más daños que beneficios,P37_9 Nivel de acuerdo con que la IA Aumentará el dominio de las máquinas sobre las personas
+P5_3,P5_4,0.4123339030200605,0.4123339030200605,1,7,7,P5_3 Visitó un zoológico o acuario en el último año,P5_4 Visitó un parque nacional o reserva natural en el último año
+P4_5,P4_11,0.4122237815499284,0.4122237815499284,1,3,3,P4_5 Destaque de Perú en Salud,P4_11 Destaque de Perú en Medioambiente
+P4_11,P4_14,0.4113548001659181,0.4113548001659181,1,3,3,P4_11 Destaque de Perú en Medioambiente,P4_14 Destaque de Perú en Vivienda
+P37_1,P37_3,0.4105473155169364,0.4105473155169364,1,2,2,P37_1 Nivel de acuerdo con que la IA Resolverá complejos problemas sociales,P37_3 Nivel de acuerdo con que la IA Favorece el desarrollo de la economía
+P4_1,P4_8,0.4101192953273786,0.4101192953273786,1,3,3,P4_1 Destaque de Perú en Deportes,P4_8 Destaque de Perú en Investigación científica
+P30_2,P30_4,0.4090176953929539,0.4090176953929539,1,2,2,P30_2 La ciencia hace que nuestro modo de vida cambie demasiado rápido.,P30_4 Los beneficios de la ciencia y la tecnología son mayores que los perjuicios que puedan ocasionar.
+P4_12,P4_13,0.4077790540157323,0.4077790540157323,1,3,3,P4_12 Destaque de Perú en Energía,P4_13 Destaque de Perú en Obras públicas
+P4_4,P4_12,0.4074336352480108,0.4074336352480108,1,3,3,P4_4 Destaque de Perú en Minería,P4_12 Destaque de Perú en Energía
+P37_2,P37_14,0.40710004547091533,0.40710004547091533,1,4,4,P37_2 Nivel de acuerdo con que la IA Amenaza el desarrollo de la sociedad,P37_14 Nivel de acuerdo con que la IA Creará divisiones sociales
+P4_5,P4_6,0.4063195172100326,0.4063195172100326,1,3,3,P4_5 Destaque de Perú en Salud,P4_6 Destaque de Perú en Desarrollo de tecnologías
+P4_3,P4_7,0.40626464093856374,0.40626464093856374,1,3,3,P4_3 Destaque de Perú en Agricultura y ganadería,P4_7 Destaque de Perú en Arte y cultura
+P6_6,P6_7,0.4055294448006332,0.4055294448006332,1,1,1,P6_6 Nivel de interés en Medicina y salud,P6_7 Nivel de interés en Arte y cultura
+P3_1,P3_6,0.40488091878948707,0.40488091878948707,1,5,5,P3_1 Aprecio por la profesión de Artista,P3_6 Aprecio por la profesión de Científico
+P4_7,P4_12,0.4045385719901684,0.4045385719901684,1,3,3,P4_7 Destaque de Perú en Arte y cultura,P4_12 Destaque de Perú en Energía
+P4_8,P4_13,0.40436112093234944,0.40436112093234944,1,3,3,P4_8 Destaque de Perú en Investigación científica,P4_13 Destaque de Perú en Obras públicas
+P37_2,P37_8,0.4041406313284417,0.4041406313284417,1,4,4,P37_2 Nivel de acuerdo con que la IA Amenaza el desarrollo de la sociedad,P37_8 Nivel de acuerdo con que la IA Es negativa para el desarrollo de la sociedad
+P30_3,P30_7,0.40402490748463177,0.40402490748463177,1,2,2,P30_3 La ciencia y la tecnología eliminarán la pobreza y el hambre en el mundo.,P30_7 La ciencia y la tecnología contribuyen a mejorar el medio ambiente.
+P24_3,P24_5,0.40351369040982565,0.40351369040982565,1,6,6,P24_3 Como considera que son las condiciones de Salarios,P24_5 Como considera que son las condiciones de para conseguir trabajo en una empresa
+P4_5,P4_12,0.40269512749052716,0.40269512749052716,1,3,3,P4_5 Destaque de Perú en Salud,P4_12 Destaque de Perú en Energía
+P4_6,P4_13,0.40234093965686246,0.40234093965686246,1,3,3,P4_6 Destaque de Perú en Desarrollo de tecnologías,P4_13 Destaque de Perú en Obras públicas
+P6_5,P7_9,0.4012340943068402,0.4012340943068402,1,1,1,P6_5 Nivel de interés en Ciencia y tecnología,P7_9 Nivel de información en Medioambiente y ecología
+P30_1,P30_7,0.40091366869553313,0.40091366869553313,1,2,2,P30_1 Gracias a la ciencia y la tecnología nuestros hijos van a tener más oportunidades.,P30_7 La ciencia y la tecnología contribuyen a mejorar el medio ambiente.
+P4_1,P4_6,0.40074559433197443,0.40074559433197443,1,3,3,P4_1 Destaque de Perú en Deportes,P4_6 Destaque de Perú en Desarrollo de tecnologías
+P7_2,P7_5,0.39949952061382205,0.39949952061382205,1,1,1,P7_2 Nivel de información en Política,P7_5 Nivel de información en Ciencia y tecnología
+P30_8,P37_6,0.3990152184907518,0.3990152184907518,1,2,2,P30_8 La ciencia y la tecnología pueden resolver cualquier tipo de problemas.,P37_6 Nivel de acuerdo con que la IA Será una buena compañía para nuestra vida cotidiana
+P30_1,P30_4,0.3989260620396669,0.3989260620396669,1,2,2,P30_1 Gracias a la ciencia y la tecnología nuestros hijos van a tener más oportunidades.,P30_4 Los beneficios de la ciencia y la tecnología son mayores que los perjuicios que puedan ocasionar.
+P7_5,P9_6,0.3973368678512767,0.3973368678512767,1,1,1,P7_5 Nivel de información en Ciencia y tecnología,P9_6 Usa Internet para buscar información científica
+P24_2,P24_5,0.396495388460789,0.396495388460789,1,6,6,"P24_2 Como considera que son las condiciones de Equipamientos (materiales, máquinas, insumos, etc.)",P24_5 Como considera que son las condiciones de para conseguir trabajo en una empresa
+P3_7,P3_9,0.3961100992386575,0.3961100992386575,1,5,5,P3_7 Aprecio por la profesión de Deportista,P3_9 Aprecio por la profesión de Ingeniero
+P37_8,P37_9,0.3951125721621872,0.3951125721621872,1,4,4,P37_8 Nivel de acuerdo con que la IA Es negativa para el desarrollo de la sociedad,P37_9 Nivel de acuerdo con que la IA Aumentará el dominio de las máquinas sobre las personas
+P9_1,P9_7,0.39495270526137527,0.39495270526137527,1,1,1,"P9_1 Mira programas o documentales de TV sobre ciencia, tecnología o naturaleza","P9_7 Usa las redes sociales para compartir o informarse sobre temas científicos . Sí selecciono la opción 1 o 2, pasar a..."
+P6_2,P6_3,0.3948646796619178,0.3948646796619178,1,1,1,P6_2 Nivel de interés en Política,P6_3 Nivel de interés en Economía
+P6_5,P3_6,0.3929286139314177,0.3929286139314177,1,1,5,P6_5 Nivel de interés en Ciencia y tecnología,P3_6 Aprecio por la profesión de Científico
+P30_8,P37_1,0.39272106199350065,0.39272106199350065,1,2,2,P30_8 La ciencia y la tecnología pueden resolver cualquier tipo de problemas.,P37_1 Nivel de acuerdo con que la IA Resolverá complejos problemas sociales
+P30_1,P37_4,0.3924939423350947,0.3924939423350947,1,2,2,P30_1 Gracias a la ciencia y la tecnología nuestros hijos van a tener más oportunidades.,P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida
+P7_2,P7_9,0.39222932679092776,0.39222932679092776,1,1,1,P7_2 Nivel de información en Política,P7_9 Nivel de información en Medioambiente y ecología
+P30_8,P37_15,0.39222151341423606,0.39222151341423606,1,2,2,P30_8 La ciencia y la tecnología pueden resolver cualquier tipo de problemas.,P37_15 Nivel de acuerdo con que la IA Nos ayuda a tomar mejores decisiones
+P37_7,P37_15,0.39135442194765474,0.39135442194765474,1,2,2,P37_7 Nivel de acuerdo con que la IA Ayudará a crear más empleos,P37_15 Nivel de acuerdo con que la IA Nos ayuda a tomar mejores decisiones
+P4_2,P4_11,0.391320716792273,0.391320716792273,1,3,3,P4_2 Destaque de Perú en Desarrollo de la industria,P4_11 Destaque de Perú en Medioambiente
+P4_2,P4_7,0.390820297749542,0.390820297749542,1,3,3,P4_2 Destaque de Perú en Desarrollo de la industria,P4_7 Destaque de Perú en Arte y cultura
+P6_5,P7_7,0.3902218535960018,0.3902218535960018,1,1,1,P6_5 Nivel de interés en Ciencia y tecnología,P7_7 Nivel de información en Arte y cultura
+P37_5,P37_16,0.3902091026767635,0.3902091026767635,1,4,4,P37_5 Nivel de acuerdo con que la IA Generará muchos más daños que beneficios,P37_16 Nivel de acuerdo con que la IA Controlará nuestra vida privada
+P4_9,P4_13,0.3901613647840675,0.3901613647840675,1,3,3,P4_9 Destaque de Perú en Educación,P4_13 Destaque de Perú en Obras públicas
+P3_1,P3_9,0.3900986325250942,0.3900986325250942,1,5,5,P3_1 Aprecio por la profesión de Artista,P3_9 Aprecio por la profesión de Ingeniero
+P37_4,P37_7,0.38999219903559595,0.38999219903559595,1,2,2,P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida,P37_7 Nivel de acuerdo con que la IA Ayudará a crear más empleos
+P4_2,P4_5,0.38951625754818336,0.38951625754818336,1,3,3,P4_2 Destaque de Perú en Desarrollo de la industria,P4_5 Destaque de Perú en Salud
+P4_7,P4_10,0.38944294180315336,0.38944294180315336,1,3,3,P4_7 Destaque de Perú en Arte y cultura,P4_10 Destaque de Perú en Turismo
+P9_3,P9_6,0.3893699374748189,0.3893699374748189,1,1,1,P9_3 Escucha programas o secciones de radio que tratan sobre temas de ciencia y tecnología,P9_6 Usa Internet para buscar información científica
+P6_3,P6_7,0.3891930983936093,0.3891930983936093,1,1,1,P6_3 Nivel de interés en Economía,P6_7 Nivel de interés en Arte y cultura
+P37_2,P37_9,0.3885158345836235,0.3885158345836235,1,4,4,P37_2 Nivel de acuerdo con que la IA Amenaza el desarrollo de la sociedad,P37_9 Nivel de acuerdo con que la IA Aumentará el dominio de las máquinas sobre las personas
+P13,P14,0.38799281197656715,0.38799281197656715,1,6,6,P13 Qué tan remunerada diría que es la profesión de Científico,P14 Qué tan prestigiosa diría que es la profesión de Científico
+P4_9,P4_11,0.38780598499515795,0.38780598499515795,1,3,3,P4_9 Destaque de Perú en Educación,P4_11 Destaque de Perú en Medioambiente
+P26_9,P37_4,0.38657181245496713,0.38657181245496713,1,2,2,P26_9 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida
+P7_5,P9_4,0.3864442476354798,0.3864442476354798,1,1,1,P7_5 Nivel de información en Ciencia y tecnología,P9_4 Lee revistas de divulgación científica
+P4_2,P4_13,0.3864059663527346,0.3864059663527346,1,3,3,P4_2 Destaque de Perú en Desarrollo de la industria,P4_13 Destaque de Perú en Obras públicas
+P4_8,P4_14,0.38596892268178434,0.38596892268178434,1,3,3,P4_8 Destaque de Perú en Investigación científica,P4_14 Destaque de Perú en Vivienda
+P4_9,P4_12,0.38551520391235294,0.38551520391235294,1,3,3,P4_9 Destaque de Perú en Educación,P4_12 Destaque de Perú en Energía
+P9_5,P9_6,0.38487269653568623,0.38487269653568623,1,1,1,P9_5 Lee libros de divulgación científica,P9_6 Usa Internet para buscar información científica
+P37_1,P37_15,0.38440466108942745,0.38440466108942745,1,2,2,P37_1 Nivel de acuerdo con que la IA Resolverá complejos problemas sociales,P37_15 Nivel de acuerdo con que la IA Nos ayuda a tomar mejores decisiones
+P7_3,P7_7,0.3818821992334338,0.3818821992334338,1,1,1,P7_3 Nivel de información en Economía,P7_7 Nivel de información en Arte y cultura
+P37_1,P37_13,0.38153343298829534,0.38153343298829534,1,2,2,P37_1 Nivel de acuerdo con que la IA Resolverá complejos problemas sociales,P37_13 Nivel de acuerdo con que la IA Nos ayudará a cuidar mejor nuestra salud
+P37_2,P37_16,0.3808400549969098,0.3808400549969098,1,4,4,P37_2 Nivel de acuerdo con que la IA Amenaza el desarrollo de la sociedad,P37_16 Nivel de acuerdo con que la IA Controlará nuestra vida privada
+P4_1,P4_2,0.3806884322950121,0.3806884322950121,1,3,3,P4_1 Destaque de Perú en Deportes,P4_2 Destaque de Perú en Desarrollo de la industria
+P30_5,P30_9,0.3803876763571571,0.3803876763571571,1,4,4,P30_5 La ciencia y la tecnología están produciendo un estilo de vida artificial.,P30_9 Quienes pagan a los científicos pueden influirlos para que lleguen a las conclusiones que les convienen.
+P4_1,P4_9,0.38025661615930356,0.38025661615930356,1,3,3,P4_1 Destaque de Perú en Deportes,P4_9 Destaque de Perú en Educación
+P4_7,P4_8,0.3797475159578202,0.3797475159578202,1,3,3,P4_7 Destaque de Perú en Arte y cultura,P4_8 Destaque de Perú en Investigación científica
+P4_1,P4_12,0.37847846850388195,0.37847846850388195,1,3,3,P4_1 Destaque de Perú en Deportes,P4_12 Destaque de Perú en Energía
+P6_1,P6_7,0.37801151451003434,0.37801151451003434,1,1,1,P6_1 Nivel de interés en Deportes,P6_7 Nivel de interés en Arte y cultura
+P3_9,P3_10,0.3770698455926862,0.3770698455926862,1,5,5,P3_9 Aprecio por la profesión de Ingeniero,P3_10 Aprecio por la profesión de Periodista
+P4_2,P4_9,0.37693680551488407,0.37693680551488407,1,3,3,P4_2 Destaque de Perú en Desarrollo de la industria,P4_9 Destaque de Perú en Educación
+P4_6,P4_7,0.37664019188580283,0.37664019188580283,1,3,3,P4_6 Destaque de Perú en Desarrollo de tecnologías,P4_7 Destaque de Perú en Arte y cultura
+P6_9,P7_7,0.37641324564963863,0.37641324564963863,1,1,1,P6_9 Nivel de interés en Medioambiente y ecología,P7_7 Nivel de información en Arte y cultura
+P6_7,P7_9,0.37640060498327754,0.37640060498327754,1,1,1,P6_7 Nivel de interés en Arte y cultura,P7_9 Nivel de información en Medioambiente y ecología
+P30_7,P37_4,0.37567457382463826,0.37567457382463826,1,2,2,P30_7 La ciencia y la tecnología contribuyen a mejorar el medio ambiente.,P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida
+P3_1,P3_10,0.3756444140695313,0.3756444140695313,1,5,5,P3_1 Aprecio por la profesión de Artista,P3_10 Aprecio por la profesión de Periodista
+P9_4,P9_7,0.37528698642390373,0.37528698642390373,1,1,1,P9_4 Lee revistas de divulgación científica,"P9_7 Usa las redes sociales para compartir o informarse sobre temas científicos . Sí selecciono la opción 1 o 2, pasar a..."
+P30_8,P37_4,0.3752138449361075,0.3752138449361075,1,2,2,P30_8 La ciencia y la tecnología pueden resolver cualquier tipo de problemas.,P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida
+P26_6,P30_5,0.3740489042530633,0.3740489042530633,1,4,4,"P26_6 Debido a su conocimiento, los científicos tienen un poder que los vuelve peligrosos.",P30_5 La ciencia y la tecnología están produciendo un estilo de vida artificial.
+P37_5,P37_14,0.37383500759213667,0.37383500759213667,1,4,4,P37_5 Nivel de acuerdo con que la IA Generará muchos más daños que beneficios,P37_14 Nivel de acuerdo con que la IA Creará divisiones sociales
+P30_8,P37_13,0.373075832451337,0.373075832451337,1,2,2,P30_8 La ciencia y la tecnología pueden resolver cualquier tipo de problemas.,P37_13 Nivel de acuerdo con que la IA Nos ayudará a cuidar mejor nuestra salud
+P4_1,P4_11,0.3730416441238434,0.3730416441238434,1,3,3,P4_1 Destaque de Perú en Deportes,P4_11 Destaque de Perú en Medioambiente
+P3_6,P3_7,0.3726084240017567,0.3726084240017567,1,5,5,P3_6 Aprecio por la profesión de Científico,P3_7 Aprecio por la profesión de Deportista
+P30_5,P37_9,0.37242295466699793,0.37242295466699793,1,4,4,P30_5 La ciencia y la tecnología están produciendo un estilo de vida artificial.,P37_9 Nivel de acuerdo con que la IA Aumentará el dominio de las máquinas sobre las personas
+P5_1,P5_3,0.3723391495195729,0.3723391495195729,1,7,7,P5_1 Visitó un museo de arte en el último año,P5_3 Visitó un zoológico o acuario en el último año
+P4_2,P4_3,0.37120189750180327,0.37120189750180327,1,3,3,P4_2 Destaque de Perú en Desarrollo de la industria,P4_3 Destaque de Perú en Agricultura y ganadería
+P4_1,P4_5,0.37013953772296326,0.37013953772296326,1,3,3,P4_1 Destaque de Perú en Deportes,P4_5 Destaque de Perú en Salud
+P6_7,P7_5,0.3696259798388503,0.3696259798388503,1,1,1,P6_7 Nivel de interés en Arte y cultura,P7_5 Nivel de información en Ciencia y tecnología
+P6_5,P9_7,0.3670379543698435,0.3670379543698435,1,1,1,P6_5 Nivel de interés en Ciencia y tecnología,"P9_7 Usa las redes sociales para compartir o informarse sobre temas científicos . Sí selecciono la opción 1 o 2, pasar a..."
+P7_6,P7_7,0.36489559167951496,0.36489559167951496,1,1,1,P7_6 Nivel de información en Medicina y salud,P7_7 Nivel de información en Arte y cultura
+P4_7,P4_11,0.36479006944874076,0.36479006944874076,1,3,3,P4_7 Destaque de Perú en Arte y cultura,P4_11 Destaque de Perú en Medioambiente
+P6_9,P7_5,0.3643514948047311,0.3643514948047311,1,1,1,P6_9 Nivel de interés en Medioambiente y ecología,P7_5 Nivel de información en Ciencia y tecnología
+P30_8,P37_10,0.3638676138979646,0.3638676138979646,1,2,2,P30_8 La ciencia y la tecnología pueden resolver cualquier tipo de problemas.,P37_10 Nivel de acuerdo con que la IA Mejora la evolución de la sociedad
+P3_3,P3_10,0.3632351991542284,0.3632351991542284,1,5,5,P3_3 Aprecio por la profesión de Médico,P3_10 Aprecio por la profesión de Periodista
+P30_3,P37_6,0.3624970976684213,0.3624970976684213,1,2,2,P30_3 La ciencia y la tecnología eliminarán la pobreza y el hambre en el mundo.,P37_6 Nivel de acuerdo con que la IA Será una buena compañía para nuestra vida cotidiana
+P26_5,P30_8,0.3615835734892392,0.3615835734892392,1,2,2,P26_5 El desarrollo científico-tecnológico ayudará a disminuir las desigualdades sociales.,P30_8 La ciencia y la tecnología pueden resolver cualquier tipo de problemas.
+P30_7,P37_6,0.3613101317147669,0.3613101317147669,1,2,2,P30_7 La ciencia y la tecnología contribuyen a mejorar el medio ambiente.,P37_6 Nivel de acuerdo con que la IA Será una buena compañía para nuestra vida cotidiana
+P3_8,P3_10,0.3612057997552932,0.3612057997552932,1,5,5,P3_8 Aprecio por la profesión de Profesor,P3_10 Aprecio por la profesión de Periodista
+P30_1,P37_3,0.35989542093257726,0.35989542093257726,1,2,2,P30_1 Gracias a la ciencia y la tecnología nuestros hijos van a tener más oportunidades.,P37_3 Nivel de acuerdo con que la IA Favorece el desarrollo de la economía
+P37_2,P37_11,0.3593462146966953,0.3593462146966953,1,4,4,P37_2 Nivel de acuerdo con que la IA Amenaza el desarrollo de la sociedad,P37_11 Nivel de acuerdo con que la IA Hará que se pierdan más puestos de trabajo
+P26_6,P30_9,0.35893474919544627,0.35893474919544627,1,4,4,"P26_6 Debido a su conocimiento, los científicos tienen un poder que los vuelve peligrosos.",P30_9 Quienes pagan a los científicos pueden influirlos para que lleguen a las conclusiones que les convienen.
+P4_1,P4_14,0.3585366963622534,0.3585366963622534,1,3,3,P4_1 Destaque de Perú en Deportes,P4_14 Destaque de Perú en Vivienda
+P6_5,P11,0.35767641998748384,0.35767641998748384,1,1,6,P6_5 Nivel de interés en Ciencia y tecnología,P11 Qué tan atractiva diría que es la profesión de Científico
+P4_1,P4_13,0.35765680866144356,0.35765680866144356,1,3,3,P4_1 Destaque de Perú en Deportes,P4_13 Destaque de Perú en Obras públicas
+P30_3,P37_4,0.35756560239882945,0.35756560239882945,1,2,2,P30_3 La ciencia y la tecnología eliminarán la pobreza y el hambre en el mundo.,P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida
+P7_2,P7_7,0.35742494097280225,0.35742494097280225,1,1,1,P7_2 Nivel de información en Política,P7_7 Nivel de información en Arte y cultura
+P7_5,P9_1,0.3569791858733618,0.3569791858733618,1,1,1,P7_5 Nivel de información en Ciencia y tecnología,"P9_1 Mira programas o documentales de TV sobre ciencia, tecnología o naturaleza"
+P26_9,P30_4,0.35672903187605487,0.35672903187605487,1,2,2,P26_9 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,P30_4 Los beneficios de la ciencia y la tecnología son mayores que los perjuicios que puedan ocasionar.
+P6_5,P9_1,0.3561953775370608,0.3561953775370608,1,1,1,P6_5 Nivel de interés en Ciencia y tecnología,"P9_1 Mira programas o documentales de TV sobre ciencia, tecnología o naturaleza"
+P7_5,P35,0.3557167088590127,0.3557167088590127,1,1,1,P7_5 Nivel de información en Ciencia y tecnología,P35 Actualmente se habla mucho sobre “inteligencia artificial” como un tipo de tecnología que está cambiando nuestras vi...
+P12,P13,0.3552958509209309,0.3552958509209309,1,6,6,P12 Qué tan gratificante diría que es la profesión de Científico,P13 Qué tan remunerada diría que es la profesión de Científico
+P7_1,P7_7,0.35507872144684055,0.35507872144684055,1,1,1,P7_1 Nivel de información en Deportes,P7_7 Nivel de información en Arte y cultura
+P3_2,P3_4,0.3550409588005036,0.3550409588005036,1,5,5,P3_2 Aprecio por la profesión de Juez,P3_4 Aprecio por la profesión de Empresario
+P4_2,P4_4,0.3548813892618866,0.3548813892618866,1,3,3,P4_2 Destaque de Perú en Desarrollo de la industria,P4_4 Destaque de Perú en Minería
+P12,P3_6,0.35430910512553554,0.35430910512553554,1,6,5,P12 Qué tan gratificante diría que es la profesión de Científico,P3_6 Aprecio por la profesión de Científico
+P3_1,P3_4,0.35311097061380453,0.35311097061380453,1,5,5,P3_1 Aprecio por la profesión de Artista,P3_4 Aprecio por la profesión de Empresario
+P30_7,P37_15,0.35299018022955164,0.35299018022955164,1,2,2,P30_7 La ciencia y la tecnología contribuyen a mejorar el medio ambiente.,P37_15 Nivel de acuerdo con que la IA Nos ayuda a tomar mejores decisiones
+P6_9,P7_6,0.3513910817837842,0.3513910817837842,1,1,1,P6_9 Nivel de interés en Medioambiente y ecología,P7_6 Nivel de información en Medicina y salud
+P7_1,P7_3,0.35130704155396864,0.35130704155396864,1,1,1,P7_1 Nivel de información en Deportes,P7_3 Nivel de información en Economía
+P30_6,P37_1,0.3506293162226722,0.3506293162226722,1,2,2,P30_6 Gracias a la ciencia y la tecnología los recursos del planeta no se extinguirán nunca.,P37_1 Nivel de acuerdo con que la IA Resolverá complejos problemas sociales
+P6_2,P6_5,0.35054817495762186,0.35054817495762186,1,1,1,P6_2 Nivel de interés en Política,P6_5 Nivel de interés en Ciencia y tecnología
+P5_2,P5_5,0.3500290556504305,0.3500290556504305,1,7,7,P5_2 Visitó un museo de ciencia en el último año,P5_5 Visitó un laboratorio o institución de ciencia y tecnología en el último año
+P3_6,P3_10,0.34975892847533824,0.34975892847533824,1,5,5,P3_6 Aprecio por la profesión de Científico,P3_10 Aprecio por la profesión de Periodista
+P6_2,P7_3,0.34942091607722237,0.34942091607722237,1,1,1,P6_2 Nivel de interés en Política,P7_3 Nivel de información en Economía
+P24_1,P24_5,0.34899824389078427,0.34899824389078427,1,6,6,"P24_1 Como considera que son las condiciones de Infraestructuras (edificios, laboratorios, etc.)",P24_5 Como considera que son las condiciones de para conseguir trabajo en una empresa
+P36,P37_6,0.34838739372740174,0.34838739372740174,1,2,2,"P36 ¿Cree que la “inteligencia artificial” tendrá efectos muy positivos, positivos, negativos, o muy negativos en el des...",P37_6 Nivel de acuerdo con que la IA Será una buena compañía para nuestra vida cotidiana
+P30_7,P37_13,0.34704052202749686,0.34704052202749686,1,2,2,P30_7 La ciencia y la tecnología contribuyen a mejorar el medio ambiente.,P37_13 Nivel de acuerdo con que la IA Nos ayudará a cuidar mejor nuestra salud
+P5_1,P5_2,0.3470372143602179,0.3470372143602179,1,7,7,P5_1 Visitó un museo de arte en el último año,P5_2 Visitó un museo de ciencia en el último año
+P7_5,P9_7,0.3468864310425722,0.3468864310425722,1,1,1,P7_5 Nivel de información en Ciencia y tecnología,"P9_7 Usa las redes sociales para compartir o informarse sobre temas científicos . Sí selecciono la opción 1 o 2, pasar a..."
+P9_1,P9_5,0.34658729659200066,0.34658729659200066,1,1,1,"P9_1 Mira programas o documentales de TV sobre ciencia, tecnología o naturaleza",P9_5 Lee libros de divulgación científica
+P6_1,P6_3,0.34634649313037,0.34634649313037,1,1,1,P6_1 Nivel de interés en Deportes,P6_3 Nivel de interés en Economía
+P26_9,P37_3,0.34613033337395066,0.34613033337395066,1,2,2,P26_9 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,P37_3 Nivel de acuerdo con que la IA Favorece el desarrollo de la economía
+P7_2,P7_6,0.3447338967580615,0.3447338967580615,1,1,1,P7_2 Nivel de información en Política,P7_6 Nivel de información en Medicina y salud
+P37_5,P37_11,0.3446971202002669,0.3446971202002669,1,4,4,P37_5 Nivel de acuerdo con que la IA Generará muchos más daños que beneficios,P37_11 Nivel de acuerdo con que la IA Hará que se pierdan más puestos de trabajo
+P6_3,P7_2,0.3445733825300073,0.3445733825300073,1,1,1,P6_3 Nivel de interés en Economía,P7_2 Nivel de información en Política
+P4_3,P4_14,0.34456062355244294,0.34456062355244294,1,3,3,P4_3 Destaque de Perú en Agricultura y ganadería,P4_14 Destaque de Perú en Vivienda
+P9_2,P9_7,0.3441915335155839,0.3441915335155839,1,1,1,P9_2 Lee las noticias científicas que se publican en los diarios,"P9_7 Usa las redes sociales para compartir o informarse sobre temas científicos . Sí selecciono la opción 1 o 2, pasar a..."
+P30_3,P37_10,0.34408964828831584,0.34408964828831584,1,2,2,P30_3 La ciencia y la tecnología eliminarán la pobreza y el hambre en el mundo.,P37_10 Nivel de acuerdo con que la IA Mejora la evolución de la sociedad
+P5_1,P5_4,0.343898197579504,0.343898197579504,1,7,7,P5_1 Visitó un museo de arte en el último año,P5_4 Visitó un parque nacional o reserva natural en el último año
+P4_4,P4_7,0.3437244405956833,0.3437244405956833,1,3,3,P4_4 Destaque de Perú en Minería,P4_7 Destaque de Perú en Arte y cultura
+P3_4,P3_8,0.3436950990380055,0.3436950990380055,1,5,5,P3_4 Aprecio por la profesión de Empresario,P3_8 Aprecio por la profesión de Profesor
+P30_4,P30_7,0.34347348659939736,0.34347348659939736,1,2,2,P30_4 Los beneficios de la ciencia y la tecnología son mayores que los perjuicios que puedan ocasionar.,P30_7 La ciencia y la tecnología contribuyen a mejorar el medio ambiente.
+P7_1,P7_9,0.34313426200256963,0.34313426200256963,1,1,1,P7_1 Nivel de información en Deportes,P7_9 Nivel de información en Medioambiente y ecología
+P3_7,P3_10,0.34273542574277677,0.34273542574277677,1,5,5,P3_7 Aprecio por la profesión de Deportista,P3_10 Aprecio por la profesión de Periodista
+P30_5,P37_16,0.34258837268713366,0.34258837268713366,1,4,4,P30_5 La ciencia y la tecnología están produciendo un estilo de vida artificial.,P37_16 Nivel de acuerdo con que la IA Controlará nuestra vida privada
+P30_8,P37_7,0.3422071286642778,0.3422071286642778,1,2,2,P30_8 La ciencia y la tecnología pueden resolver cualquier tipo de problemas.,P37_7 Nivel de acuerdo con que la IA Ayudará a crear más empleos
+P30_2,P30_9,0.3418805234716091,0.3418805234716091,1,2,4,P30_2 La ciencia hace que nuestro modo de vida cambie demasiado rápido.,P30_9 Quienes pagan a los científicos pueden influirlos para que lleguen a las conclusiones que les convienen.
+P37_7,P37_13,0.3417463509905366,0.3417463509905366,1,2,2,P37_7 Nivel de acuerdo con que la IA Ayudará a crear más empleos,P37_13 Nivel de acuerdo con que la IA Nos ayudará a cuidar mejor nuestra salud
+P6_9,P3_6,0.3416465897701741,0.3416465897701741,1,1,5,P6_9 Nivel de interés en Medioambiente y ecología,P3_6 Aprecio por la profesión de Científico
+P3_2,P3_3,0.341550590489989,0.341550590489989,1,5,5,P3_2 Aprecio por la profesión de Juez,P3_3 Aprecio por la profesión de Médico
+P37_8,P37_14,0.3392240297852902,0.3392240297852902,1,4,4,P37_8 Nivel de acuerdo con que la IA Es negativa para el desarrollo de la sociedad,P37_14 Nivel de acuerdo con que la IA Creará divisiones sociales
+P4_7,P4_13,0.33868312206030843,0.33868312206030843,1,3,3,P4_7 Destaque de Perú en Arte y cultura,P4_13 Destaque de Perú en Obras públicas
+P6_6,P3_3,0.3383816455383206,0.3383816455383206,1,1,5,P6_6 Nivel de interés en Medicina y salud,P3_3 Aprecio por la profesión de Médico
+P4_10,P4_12,0.3381425988795779,0.3381425988795779,1,3,3,P4_10 Destaque de Perú en Turismo,P4_12 Destaque de Perú en Energía
+P3_4,P3_10,0.33791106849652813,0.33791106849652813,1,5,5,P3_4 Aprecio por la profesión de Empresario,P3_10 Aprecio por la profesión de Periodista
+P3_3,P3_7,0.3376175507328806,0.3376175507328806,1,5,5,P3_3 Aprecio por la profesión de Médico,P3_7 Aprecio por la profesión de Deportista
+P3_1,P3_8,0.33723637917858007,0.33723637917858007,1,5,5,P3_1 Aprecio por la profesión de Artista,P3_8 Aprecio por la profesión de Profesor
+P30_5,P37_11,0.33662745537506394,0.33662745537506394,1,4,4,P30_5 La ciencia y la tecnología están produciendo un estilo de vida artificial.,P37_11 Nivel de acuerdo con que la IA Hará que se pierdan más puestos de trabajo
+P37_8,P37_16,0.33608446455613306,0.33608446455613306,1,4,4,P37_8 Nivel de acuerdo con que la IA Es negativa para el desarrollo de la sociedad,P37_16 Nivel de acuerdo con que la IA Controlará nuestra vida privada
+P30_4,P37_15,0.33501306003519743,0.33501306003519743,1,2,2,P30_4 Los beneficios de la ciencia y la tecnología son mayores que los perjuicios que puedan ocasionar.,P37_15 Nivel de acuerdo con que la IA Nos ayuda a tomar mejores decisiones
+P30_3,P37_15,0.334566210001591,0.334566210001591,1,2,2,P30_3 La ciencia y la tecnología eliminarán la pobreza y el hambre en el mundo.,P37_15 Nivel de acuerdo con que la IA Nos ayuda a tomar mejores decisiones
+P4_7,P4_14,0.33455894200706937,0.33455894200706937,1,3,3,P4_7 Destaque de Perú en Arte y cultura,P4_14 Destaque de Perú en Vivienda
+P6_9,P9_6,0.3343775291095624,0.3343775291095624,1,1,1,P6_9 Nivel de interés en Medioambiente y ecología,P9_6 Usa Internet para buscar información científica
+P4_3,P4_8,0.3341973376535094,0.3341973376535094,1,3,3,P4_3 Destaque de Perú en Agricultura y ganadería,P4_8 Destaque de Perú en Investigación científica
+P6_5,P7_3,0.3339470037320399,0.3339470037320399,1,1,1,P6_5 Nivel de interés en Ciencia y tecnología,P7_3 Nivel de información en Economía
+P3_2,P3_6,0.3335124980884667,0.3335124980884667,1,5,5,P3_2 Aprecio por la profesión de Juez,P3_6 Aprecio por la profesión de Científico
+P4_1,P4_7,0.3334745360235018,0.3334745360235018,1,3,3,P4_1 Destaque de Perú en Deportes,P4_7 Destaque de Perú en Arte y cultura
+P26_5,P30_7,0.33324261150345186,0.33324261150345186,1,2,2,P26_5 El desarrollo científico-tecnológico ayudará a disminuir las desigualdades sociales.,P30_7 La ciencia y la tecnología contribuyen a mejorar el medio ambiente.
+P9_5,P9_7,0.3331627149109801,0.3331627149109801,1,1,1,P9_5 Lee libros de divulgación científica,"P9_7 Usa las redes sociales para compartir o informarse sobre temas científicos . Sí selecciono la opción 1 o 2, pasar a..."
+P3_4,P3_7,0.33302268592757933,0.33302268592757933,1,5,5,P3_4 Aprecio por la profesión de Empresario,P3_7 Aprecio por la profesión de Deportista
+P4_7,P7_7,0.3328829888673642,0.3328829888673642,1,3,1,P4_7 Destaque de Perú en Arte y cultura,P7_7 Nivel de información en Arte y cultura
+P4_7,P6_7,0.33203781502938373,0.33203781502938373,1,3,1,P4_7 Destaque de Perú en Arte y cultura,P6_7 Nivel de interés en Arte y cultura
+P4_3,P4_6,0.3319396447099878,0.3319396447099878,1,3,3,P4_3 Destaque de Perú en Agricultura y ganadería,P4_6 Destaque de Perú en Desarrollo de tecnologías
+P6_5,P7_6,0.3313375782978549,0.3313375782978549,1,1,1,P6_5 Nivel de interés en Ciencia y tecnología,P7_6 Nivel de información en Medicina y salud
+P4_3,P4_11,0.33109827163061323,0.33109827163061323,1,3,3,P4_3 Destaque de Perú en Agricultura y ganadería,P4_11 Destaque de Perú en Medioambiente
+P26_5,P30_6,0.3304149392954409,0.3304149392954409,1,2,2,P26_5 El desarrollo científico-tecnológico ayudará a disminuir las desigualdades sociales.,P30_6 Gracias a la ciencia y la tecnología los recursos del planeta no se extinguirán nunca.
+P30_9,P37_11,0.33025179349417105,0.33025179349417105,1,4,4,P30_9 Quienes pagan a los científicos pueden influirlos para que lleguen a las conclusiones que les convienen.,P37_11 Nivel de acuerdo con que la IA Hará que se pierdan más puestos de trabajo
+P6_7,P3_1,0.3302367944041423,0.3302367944041423,1,1,5,P6_7 Nivel de interés en Arte y cultura,P3_1 Aprecio por la profesión de Artista
+P30_8,P37_3,0.3297989673155215,0.3297989673155215,1,2,2,P30_8 La ciencia y la tecnología pueden resolver cualquier tipo de problemas.,P37_3 Nivel de acuerdo con que la IA Favorece el desarrollo de la economía
+P6_3,P7_9,0.3293867445057643,0.3293867445057643,1,1,1,P6_3 Nivel de interés en Economía,P7_9 Nivel de información en Medioambiente y ecología
+P6_1,P6_5,0.3288567488146543,0.3288567488146543,1,1,1,P6_1 Nivel de interés en Deportes,P6_5 Nivel de interés en Ciencia y tecnología
+P11,P3_6,0.3283577567457859,0.3283577567457859,1,6,5,P11 Qué tan atractiva diría que es la profesión de Científico,P3_6 Aprecio por la profesión de Científico
+P22,P24_2,0.32819254358192135,0.32819254358192135,1,6,6,"P22 En su opinión, ¿nuestro país está adelantado, en un lugar intermedio, o atrasado con respecto al desarrollo de la ci...","P24_2 Como considera que son las condiciones de Equipamientos (materiales, máquinas, insumos, etc.)"
+P30_1,P37_10,0.32813066679182123,0.32813066679182123,1,2,2,P30_1 Gracias a la ciencia y la tecnología nuestros hijos van a tener más oportunidades.,P37_10 Nivel de acuerdo con que la IA Mejora la evolución de la sociedad
+P26_9,P37_6,0.3277029902128446,0.3277029902128446,1,2,2,P26_9 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,P37_6 Nivel de acuerdo con que la IA Será una buena compañía para nuestra vida cotidiana
+P30_2,P37_4,0.3275437409608595,0.3275437409608595,1,2,2,P30_2 La ciencia hace que nuestro modo de vida cambie demasiado rápido.,P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida
+P26_5,P37_6,0.327381079370603,0.327381079370603,1,2,2,P26_5 El desarrollo científico-tecnológico ayudará a disminuir las desigualdades sociales.,P37_6 Nivel de acuerdo con que la IA Será una buena compañía para nuestra vida cotidiana
+P30_9,P37_9,0.3272867409805044,0.3272867409805044,1,4,4,P30_9 Quienes pagan a los científicos pueden influirlos para que lleguen a las conclusiones que les convienen.,P37_9 Nivel de acuerdo con que la IA Aumentará el dominio de las máquinas sobre las personas
+P30_6,P37_6,0.3268881332164732,0.3268881332164732,1,2,2,P30_6 Gracias a la ciencia y la tecnología los recursos del planeta no se extinguirán nunca.,P37_6 Nivel de acuerdo con que la IA Será una buena compañía para nuestra vida cotidiana
+P4_4,P3_8,0.3265918747823337,0.3265918747823337,1,3,5,P4_4 Destaque de Perú en Minería,P3_8 Aprecio por la profesión de Profesor
+P36,P37_4,0.32659133791579364,0.32659133791579364,1,2,2,"P36 ¿Cree que la “inteligencia artificial” tendrá efectos muy positivos, positivos, negativos, o muy negativos en el des...",P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida
+P6_9,P7_3,0.32652265239119255,0.32652265239119255,1,1,1,P6_9 Nivel de interés en Medioambiente y ecología,P7_3 Nivel de información en Economía
+P3_1,P3_3,0.32636780818854605,0.32636780818854605,1,5,5,P3_1 Aprecio por la profesión de Artista,P3_3 Aprecio por la profesión de Médico
+P26_6,P37_9,0.3262659964122289,0.3262659964122289,1,4,4,"P26_6 Debido a su conocimiento, los científicos tienen un poder que los vuelve peligrosos.",P37_9 Nivel de acuerdo con que la IA Aumentará el dominio de las máquinas sobre las personas
+P30_3,P37_7,0.3258222848999037,0.3258222848999037,1,2,2,P30_3 La ciencia y la tecnología eliminarán la pobreza y el hambre en el mundo.,P37_7 Nivel de acuerdo con que la IA Ayudará a crear más empleos
+P26_5,P37_1,0.3256642903186492,0.3256642903186492,1,2,2,P26_5 El desarrollo científico-tecnológico ayudará a disminuir las desigualdades sociales.,P37_1 Nivel de acuerdo con que la IA Resolverá complejos problemas sociales
+P30_4,P30_8,0.32524220518851965,0.32524220518851965,1,2,2,P30_4 Los beneficios de la ciencia y la tecnología son mayores que los perjuicios que puedan ocasionar.,P30_8 La ciencia y la tecnología pueden resolver cualquier tipo de problemas.
+P26_3,P30_4,0.3250477584173529,0.3250477584173529,1,2,2,"P26_3 La ciencia y la tecnología van a ayudar a curar enfermedades como el Sida, el cáncer, etcétera.",P30_4 Los beneficios de la ciencia y la tecnología son mayores que los perjuicios que puedan ocasionar.
+P6_7,P9_6,0.3239947547196755,0.3239947547196755,1,1,1,P6_7 Nivel de interés en Arte y cultura,P9_6 Usa Internet para buscar información científica
+P26_1,P30_4,0.32395787359101125,0.32395787359101125,1,2,2,P26_1 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,P30_4 Los beneficios de la ciencia y la tecnología son mayores que los perjuicios que puedan ocasionar.
+P37_8,P37_11,0.32362361259175193,0.32362361259175193,1,4,4,P37_8 Nivel de acuerdo con que la IA Es negativa para el desarrollo de la sociedad,P37_11 Nivel de acuerdo con que la IA Hará que se pierdan más puestos de trabajo
+P3_5,P3_8,0.3231875307162441,0.3231875307162441,1,5,5,P3_5 Aprecio por la profesión de Religioso,P3_8 Aprecio por la profesión de Profesor
+P30_3,P37_13,0.32218521014626694,0.32218521014626694,1,2,2,P30_3 La ciencia y la tecnología eliminarán la pobreza y el hambre en el mundo.,P37_13 Nivel de acuerdo con que la IA Nos ayudará a cuidar mejor nuestra salud
+P7_1,P7_2,0.32195354995950515,0.32195354995950515,1,1,1,P7_1 Nivel de información en Deportes,P7_2 Nivel de información en Política
+P26_5,P26_9,0.32194855186681276,0.32194855186681276,1,2,2,P26_5 El desarrollo científico-tecnológico ayudará a disminuir las desigualdades sociales.,P26_9 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.
+P9_3,P9_7,0.3215383990993989,0.3215383990993989,1,1,1,P9_3 Escucha programas o secciones de radio que tratan sobre temas de ciencia y tecnología,"P9_7 Usa las redes sociales para compartir o informarse sobre temas científicos . Sí selecciono la opción 1 o 2, pasar a..."
+P3_7,P3_8,0.32148023185737035,0.32148023185737035,1,5,5,P3_7 Aprecio por la profesión de Deportista,P3_8 Aprecio por la profesión de Profesor
+P30_6,P37_15,0.32147814145118997,0.32147814145118997,1,2,2,P30_6 Gracias a la ciencia y la tecnología los recursos del planeta no se extinguirán nunca.,P37_15 Nivel de acuerdo con que la IA Nos ayuda a tomar mejores decisiones
+P4_11,P1_3,0.32146777971105883,0.32146777971105883,1,3,8,P4_11 Destaque de Perú en Medioambiente,P1_3 Nivel de satisfacción con la situación ambiental del país
+P4_4,P4_14,0.3212666235034495,0.3212666235034495,1,3,3,P4_4 Destaque de Perú en Minería,P4_14 Destaque de Perú en Vivienda
+P7_5,P9_5,0.321054064071573,0.321054064071573,1,1,1,P7_5 Nivel de información en Ciencia y tecnología,P9_5 Lee libros de divulgación científica
+P26_1,P37_4,0.3209878234946896,0.3209878234946896,1,2,2,P26_1 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida
+P30_2,P37_3,0.32069833714572143,0.32069833714572143,1,2,2,P30_2 La ciencia hace que nuestro modo de vida cambie demasiado rápido.,P37_3 Nivel de acuerdo con que la IA Favorece el desarrollo de la economía
+P36,P37_1,0.32064357269775856,0.32064357269775856,1,2,2,"P36 ¿Cree que la “inteligencia artificial” tendrá efectos muy positivos, positivos, negativos, o muy negativos en el des...",P37_1 Nivel de acuerdo con que la IA Resolverá complejos problemas sociales
+P30_6,P37_10,0.3206187033906731,0.3206187033906731,1,2,2,P30_6 Gracias a la ciencia y la tecnología los recursos del planeta no se extinguirán nunca.,P37_10 Nivel de acuerdo con que la IA Mejora la evolución de la sociedad
+P26_3,P37_13,0.3204614551556538,0.3204614551556538,1,2,2,"P26_3 La ciencia y la tecnología van a ayudar a curar enfermedades como el Sida, el cáncer, etcétera.",P37_13 Nivel de acuerdo con que la IA Nos ayudará a cuidar mejor nuestra salud
+P6_2,P7_5,0.3203512142493673,0.3203512142493673,1,1,1,P6_2 Nivel de interés en Política,P7_5 Nivel de información en Ciencia y tecnología
+P22,P24_1,0.3200113169039862,0.3200113169039862,1,6,6,"P22 En su opinión, ¿nuestro país está adelantado, en un lugar intermedio, o atrasado con respecto al desarrollo de la ci...","P24_1 Como considera que son las condiciones de Infraestructuras (edificios, laboratorios, etc.)"
+P26_9,P30_7,0.3196722944207143,0.3196722944207143,1,2,2,P26_9 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,P30_7 La ciencia y la tecnología contribuyen a mejorar el medio ambiente.
+P26_5,P37_10,0.3196593083175114,0.3196593083175114,1,2,2,P26_5 El desarrollo científico-tecnológico ayudará a disminuir las desigualdades sociales.,P37_10 Nivel de acuerdo con que la IA Mejora la evolución de la sociedad
+P26_9,P37_13,0.3195683425778327,0.3195683425778327,1,2,2,P26_9 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,P37_13 Nivel de acuerdo con que la IA Nos ayudará a cuidar mejor nuestra salud
+P6_6,P7_9,0.31945987575155266,0.31945987575155266,1,1,1,P6_6 Nivel de interés en Medicina y salud,P7_9 Nivel de información en Medioambiente y ecología
+P26_9,P30_5,0.31908329073451724,0.31908329073451724,1,2,4,P26_9 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,P30_5 La ciencia y la tecnología están produciendo un estilo de vida artificial.
+P4_3,P4_5,0.31874330309279275,0.31874330309279275,1,3,3,P4_3 Destaque de Perú en Agricultura y ganadería,P4_5 Destaque de Perú en Salud
+P3_2,P3_9,0.3185592916379064,0.3185592916379064,1,5,5,P3_2 Aprecio por la profesión de Juez,P3_9 Aprecio por la profesión de Ingeniero
+P30_4,P37_4,0.31837163364279386,0.31837163364279386,1,2,2,P30_4 Los beneficios de la ciencia y la tecnología son mayores que los perjuicios que puedan ocasionar.,P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida
+P30_1,P30_8,0.31795503839806627,0.31795503839806627,1,2,2,P30_1 Gracias a la ciencia y la tecnología nuestros hijos van a tener más oportunidades.,P30_8 La ciencia y la tecnología pueden resolver cualquier tipo de problemas.
+P7_5,P7_8,0.3176240355161505,0.3176240355161505,1,1,1,P7_5 Nivel de información en Ciencia y tecnología,P7_8 Nivel de información en Astrología y esoterismo
+P26_5,P30_1,0.31754716476174843,0.31754716476174843,1,2,2,P26_5 El desarrollo científico-tecnológico ayudará a disminuir las desigualdades sociales.,P30_1 Gracias a la ciencia y la tecnología nuestros hijos van a tener más oportunidades.
+P30_4,P37_13,0.3175227152198151,0.3175227152198151,1,2,2,P30_4 Los beneficios de la ciencia y la tecnología son mayores que los perjuicios que puedan ocasionar.,P37_13 Nivel de acuerdo con que la IA Nos ayudará a cuidar mejor nuestra salud
+P30_3,P30_4,0.31751543276193767,0.31751543276193767,1,2,2,P30_3 La ciencia y la tecnología eliminarán la pobreza y el hambre en el mundo.,P30_4 Los beneficios de la ciencia y la tecnología son mayores que los perjuicios que puedan ocasionar.
+P26_3,P30_5,0.31710223518444,0.31710223518444,1,2,4,"P26_3 La ciencia y la tecnología van a ayudar a curar enfermedades como el Sida, el cáncer, etcétera.",P30_5 La ciencia y la tecnología están produciendo un estilo de vida artificial.
+P7_7,P7_8,0.3165649486377772,0.3165649486377772,1,1,1,P7_7 Nivel de información en Arte y cultura,P7_8 Nivel de información en Astrología y esoterismo
+P26_3,P37_4,0.3163343552924181,0.3163343552924181,1,2,2,"P26_3 La ciencia y la tecnología van a ayudar a curar enfermedades como el Sida, el cáncer, etcétera.",P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida
+P26_5,P37_15,0.3160784140074971,0.3160784140074971,1,2,2,P26_5 El desarrollo científico-tecnológico ayudará a disminuir las desigualdades sociales.,P37_15 Nivel de acuerdo con que la IA Nos ayuda a tomar mejores decisiones
+P26_2,P26_6,0.31572690693535876,0.31572690693535876,1,4,4,P26_2 La ciencia y la tecnología son responsables por la mayor parte de los problemas medioambientales que tenemos en la...,"P26_6 Debido a su conocimiento, los científicos tienen un poder que los vuelve peligrosos."
+P4_4,P3_9,0.31497918648751555,0.31497918648751555,1,3,5,P4_4 Destaque de Perú en Minería,P3_9 Aprecio por la profesión de Ingeniero
+P7_1,P7_5,0.31435762483864066,0.31435762483864066,1,1,1,P7_1 Nivel de información en Deportes,P7_5 Nivel de información en Ciencia y tecnología
+P6_3,P3_4,0.31420757531153953,0.31420757531153953,1,1,5,P6_3 Nivel de interés en Economía,P3_4 Aprecio por la profesión de Empresario
+P6_1,P6_9,0.3141408427174593,0.3141408427174593,1,1,1,P6_1 Nivel de interés en Deportes,P6_9 Nivel de interés en Medioambiente y ecología
+P35,P36,0.3141034402116926,0.3141034402116926,1,1,2,P35 Actualmente se habla mucho sobre “inteligencia artificial” como un tipo de tecnología que está cambiando nuestras vi...,"P36 ¿Cree que la “inteligencia artificial” tendrá efectos muy positivos, positivos, negativos, o muy negativos en el des..."
+P6_5,P12,0.3132184616116746,0.3132184616116746,1,1,6,P6_5 Nivel de interés en Ciencia y tecnología,P12 Qué tan gratificante diría que es la profesión de Científico
+P26_4,P30_2,0.3131735491973224,0.3131735491973224,1,4,2,P26_4 Dependemos demasiado de la ciencia y no lo suficiente de la Fe.,P30_2 La ciencia hace que nuestro modo de vida cambie demasiado rápido.
+P30_5,P37_14,0.31273558530794265,0.31273558530794265,1,4,4,P30_5 La ciencia y la tecnología están produciendo un estilo de vida artificial.,P37_14 Nivel de acuerdo con que la IA Creará divisiones sociales
+P6_2,P6_9,0.31270276721756485,0.31270276721756485,1,1,1,P6_2 Nivel de interés en Política,P6_9 Nivel de interés en Medioambiente y ecología
+P6_6,P3_6,0.31195852026960447,0.31195852026960447,1,1,5,P6_6 Nivel de interés en Medicina y salud,P3_6 Aprecio por la profesión de Científico
+P30_1,P37_15,0.31186975284436463,0.31186975284436463,1,2,2,P30_1 Gracias a la ciencia y la tecnología nuestros hijos van a tener más oportunidades.,P37_15 Nivel de acuerdo con que la IA Nos ayuda a tomar mejores decisiones
+P30_1,P37_6,0.3116717305227329,0.3116717305227329,1,2,2,P30_1 Gracias a la ciencia y la tecnología nuestros hijos van a tener más oportunidades.,P37_6 Nivel de acuerdo con que la IA Será una buena compañía para nuestra vida cotidiana
+P26_3,P30_7,0.31141961132860824,0.31141961132860824,1,2,2,"P26_3 La ciencia y la tecnología van a ayudar a curar enfermedades como el Sida, el cáncer, etcétera.",P30_7 La ciencia y la tecnología contribuyen a mejorar el medio ambiente.
+P6_2,P7_9,0.3113727601527839,0.3113727601527839,1,1,1,P6_2 Nivel de interés en Política,P7_9 Nivel de información en Medioambiente y ecología
+P6_5,P9_4,0.31084964495241224,0.31084964495241224,1,1,1,P6_5 Nivel de interés en Ciencia y tecnología,P9_4 Lee revistas de divulgación científica
+P4_4,P3_6,0.3095577350883789,0.3095577350883789,1,3,5,P4_4 Destaque de Perú en Minería,P3_6 Aprecio por la profesión de Científico
+P6_3,P7_5,0.3095099858721632,0.3095099858721632,1,1,1,P6_3 Nivel de interés en Economía,P7_5 Nivel de información en Ciencia y tecnología
+P30_7,P37_10,0.3081820070807573,0.3081820070807573,1,2,2,P30_7 La ciencia y la tecnología contribuyen a mejorar el medio ambiente.,P37_10 Nivel de acuerdo con que la IA Mejora la evolución de la sociedad
+P4_7,P4_9,0.3080456377897974,0.3080456377897974,1,3,3,P4_7 Destaque de Perú en Arte y cultura,P4_9 Destaque de Perú en Educación
+P26_5,P37_4,0.3075236177892589,0.3075236177892589,1,2,2,P26_5 El desarrollo científico-tecnológico ayudará a disminuir las desigualdades sociales.,P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida
+P7_9,P9_6,0.3073193816653344,0.3073193816653344,1,1,1,P7_9 Nivel de información en Medioambiente y ecología,P9_6 Usa Internet para buscar información científica
+P6_5,P9_3,0.30727595876831937,0.30727595876831937,1,1,1,P6_5 Nivel de interés en Ciencia y tecnología,P9_3 Escucha programas o secciones de radio que tratan sobre temas de ciencia y tecnología
+P4_7,P3_1,0.3071359590991839,0.3071359590991839,1,3,5,P4_7 Destaque de Perú en Arte y cultura,P3_1 Aprecio por la profesión de Artista
+P26_9,P37_15,0.3059425286293277,0.3059425286293277,1,2,2,P26_9 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,P37_15 Nivel de acuerdo con que la IA Nos ayuda a tomar mejores decisiones
+P26_1,P37_3,0.30594108601441267,0.30594108601441267,1,2,2,P26_1 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,P37_3 Nivel de acuerdo con que la IA Favorece el desarrollo de la economía
+P26_4,P26_6,0.30578207092593357,0.30578207092593357,1,4,4,P26_4 Dependemos demasiado de la ciencia y no lo suficiente de la Fe.,"P26_6 Debido a su conocimiento, los científicos tienen un poder que los vuelve peligrosos."
+P6_7,P3_6,0.3054010981003037,0.3054010981003037,1,1,5,P6_7 Nivel de interés en Arte y cultura,P3_6 Aprecio por la profesión de Científico
+P13,P24_3,0.30538497991860075,0.30538497991860075,1,6,6,P13 Qué tan remunerada diría que es la profesión de Científico,P24_3 Como considera que son las condiciones de Salarios
+P30_4,P37_6,0.30537354490170104,0.30537354490170104,1,2,2,P30_4 Los beneficios de la ciencia y la tecnología son mayores que los perjuicios que puedan ocasionar.,P37_6 Nivel de acuerdo con que la IA Será una buena compañía para nuestra vida cotidiana
+P26_5,P26_7,0.305264567377419,0.305264567377419,1,2,2,P26_5 El desarrollo científico-tecnológico ayudará a disminuir las desigualdades sociales.,P26_7 Si una nueva tecnología ofrece beneficios debería ser utilizada aunque no conozcamos todas las consecuencias.
+P7_9,P9_4,0.3049441811185429,0.3049441811185429,1,1,1,P7_9 Nivel de información en Medioambiente y ecología,P9_4 Lee revistas de divulgación científica
+P37_3,P37_7,0.3049030790849737,0.3049030790849737,1,2,2,P37_3 Nivel de acuerdo con que la IA Favorece el desarrollo de la economía,P37_7 Nivel de acuerdo con que la IA Ayudará a crear más empleos
+P4_3,P3_8,0.304403747770851,0.304403747770851,1,3,5,P4_3 Destaque de Perú en Agricultura y ganadería,P3_8 Aprecio por la profesión de Profesor
+P26_5,P30_4,0.3039156322301136,0.3039156322301136,1,2,2,P26_5 El desarrollo científico-tecnológico ayudará a disminuir las desigualdades sociales.,P30_4 Los beneficios de la ciencia y la tecnología son mayores que los perjuicios que puedan ocasionar.
+P7_1,P3_7,0.30373303883469127,0.30373303883469127,1,1,5,P7_1 Nivel de información en Deportes,P3_7 Aprecio por la profesión de Deportista
+P30_4,P37_3,0.3034049458652087,0.3034049458652087,1,2,2,P30_4 Los beneficios de la ciencia y la tecnología son mayores que los perjuicios que puedan ocasionar.,P37_3 Nivel de acuerdo con que la IA Favorece el desarrollo de la economía
+P5_5,P5_6,0.30209085898709764,0.30209085898709764,1,7,7,P5_5 Visitó un laboratorio o institución de ciencia y tecnología en el último año,P5_6 Realizó alguna actividad de la Semana Nacional de la Ciencia en el último año
+P30_1,P30_3,0.3016902935756283,0.3016902935756283,1,2,2,P30_1 Gracias a la ciencia y la tecnología nuestros hijos van a tener más oportunidades.,P30_3 La ciencia y la tecnología eliminarán la pobreza y el hambre en el mundo.
+P30_1,P37_13,0.3015083724929437,0.3015083724929437,1,2,2,P30_1 Gracias a la ciencia y la tecnología nuestros hijos van a tener más oportunidades.,P37_13 Nivel de acuerdo con que la IA Nos ayudará a cuidar mejor nuestra salud
+P26_3,P26_5,0.30127209128644694,0.30127209128644694,1,2,2,"P26_3 La ciencia y la tecnología van a ayudar a curar enfermedades como el Sida, el cáncer, etcétera.",P26_5 El desarrollo científico-tecnológico ayudará a disminuir las desigualdades sociales.
+P26_6,P30_2,0.30113072303732813,0.30113072303732813,1,4,2,"P26_6 Debido a su conocimiento, los científicos tienen un poder que los vuelve peligrosos.",P30_2 La ciencia hace que nuestro modo de vida cambie demasiado rápido.
+P30_9,P37_16,0.30075856921136757,0.30075856921136757,1,4,4,P30_9 Quienes pagan a los científicos pueden influirlos para que lleguen a las conclusiones que les convienen.,P37_16 Nivel de acuerdo con que la IA Controlará nuestra vida privada
+P30_4,P37_10,0.3006938891429468,0.3006938891429468,1,2,2,P30_4 Los beneficios de la ciencia y la tecnología son mayores que los perjuicios que puedan ocasionar.,P37_10 Nivel de acuerdo con que la IA Mejora la evolución de la sociedad
+P7_9,P9_1,0.3000922653818947,0.3000922653818947,1,1,1,P7_9 Nivel de información en Medioambiente y ecología,"P9_1 Mira programas o documentales de TV sobre ciencia, tecnología o naturaleza"

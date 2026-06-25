@@ -1,0 +1,111 @@
+community_id,variable,label,weighted_degree_in_comm
+1,P35,P35 Actualmente se habla mucho sobre “inteligencia artificial” como un tipo de tecnología que está cambiando nuestras vi...,0.3557167088590127
+1,P6_1,P6_1 Nivel de interés en Deportes,1.958097467288907
+1,P6_2,P6_2 Nivel de interés en Política,2.574007800698034
+1,P6_3,P6_3 Nivel de interés en Economía,4.009018344003522
+1,P6_5,P6_5 Nivel de interés en Ciencia y tecnología,6.44236793947684
+1,P6_6,P6_6 Nivel de interés en Medicina y salud,2.592697739490222
+1,P6_7,P6_7 Nivel de interés en Arte y cultura,3.798351272655209
+1,P6_8,P6_8 Nivel de interés en Astrología y esoterismo,0.5952297132245945
+1,P6_9,P6_9 Nivel de interés en Medioambiente y ecología,4.901868704120864
+1,P7_1,P7_1 Nivel de información en Deportes,2.276573067917914
+1,P7_2,P7_2 Nivel de información en Política,3.1775445021131494
+1,P7_3,P7_3 Nivel de información en Economía,4.03842030730819
+1,P7_5,P7_5 Nivel de información en Ciencia y tecnología,6.993198391621341
+1,P7_6,P7_6 Nivel de información en Medicina y salud,3.1788344488627684
+1,P7_7,P7_7 Nivel de información en Arte y cultura,4.049108420159953
+1,P7_8,P7_8 Nivel de información en Astrología y esoterismo,1.2294186973785222
+1,P7_9,P7_9 Nivel de información en Medioambiente y ecología,5.828850587519231
+1,P9_1,"P9_1 Mira programas o documentales de TV sobre ciencia, tecnología o naturaleza",3.569222774916282
+1,P9_2,P9_2 Lee las noticias científicas que se publican en los diarios,2.6973296539343132
+1,P9_3,P9_3 Escucha programas o secciones de radio que tratan sobre temas de ciencia y tecnología,2.8736248375733986
+1,P9_4,P9_4 Lee revistas de divulgación científica,3.8599995284292636
+1,P9_5,P9_5 Lee libros de divulgación científica,2.9280249692063194
+1,P9_6,P9_6 Usa Internet para buscar información científica,4.599101521446862
+1,P9_7,"P9_7 Usa las redes sociales para compartir o informarse sobre temas científicos . Sí selecciono la opción 1 o 2, pasar a...",3.1331890290339173
+2,P26_1,P26_1 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,2.8512884718606033
+2,P26_3,"P26_3 La ciencia y la tecnología van a ayudar a curar enfermedades como el Sida, el cáncer, etcétera.",3.394228866562374
+2,P26_5,P26_5 El desarrollo científico-tecnológico ayudará a disminuir las desigualdades sociales.,4.608120519431789
+2,P26_7,P26_7 Si una nueva tecnología ofrece beneficios debería ser utilizada aunque no conozcamos todas las consecuencias.,0.305264567377419
+2,P26_9,P26_9 La ciencia y la tecnología están haciendo que nuestras vidas sean más fáciles y cómodas.,4.769993314709772
+2,P30_1,P30_1 Gracias a la ciencia y la tecnología nuestros hijos van a tener más oportunidades.,5.69997427048491
+2,P30_2,P30_2 La ciencia hace que nuestro modo de vida cambie demasiado rápido.,3.0177879121795463
+2,P30_3,P30_3 La ciencia y la tecnología eliminarán la pobreza y el hambre en el mundo.,4.937249531023641
+2,P30_4,P30_4 Los beneficios de la ciencia y la tecnología son mayores que los perjuicios que puedan ocasionar.,4.984204966904671
+2,P30_6,P30_6 Gracias a la ciencia y la tecnología los recursos del planeta no se extinguirán nunca.,3.0408996163730024
+2,P30_7,P30_7 La ciencia y la tecnología contribuyen a mejorar el medio ambiente.,4.775349403680766
+2,P30_8,P30_8 La ciencia y la tecnología pueden resolver cualquier tipo de problemas.,5.422727319925494
+2,P36,"P36 ¿Cree que la “inteligencia artificial” tendrá efectos muy positivos, positivos, negativos, o muy negativos en el des...",0.995622304340954
+2,P37_1,P37_1 Nivel de acuerdo con que la IA Resolverá complejos problemas sociales,4.791110538577065
+2,P37_10,P37_10 Nivel de acuerdo con que la IA Mejora la evolución de la sociedad,5.645220544922147
+2,P37_13,P37_13 Nivel de acuerdo con que la IA Nos ayudará a cuidar mejor nuestra salud,5.538613666985143
+2,P37_15,P37_15 Nivel de acuerdo con que la IA Nos ayuda a tomar mejores decisiones,6.057707972217639
+2,P37_3,P37_3 Nivel de acuerdo con que la IA Favorece el desarrollo de la economía,5.114839514264974
+2,P37_4,P37_4 Nivel de acuerdo con que la IA Aumentará nuestra calidad de vida,7.386629384716059
+2,P37_6,P37_6 Nivel de acuerdo con que la IA Será una buena compañía para nuestra vida cotidiana,6.666762778353853
+2,P37_7,P37_7 Nivel de acuerdo con que la IA Ayudará a crear más empleos,3.399294227462129
+3,P4_1,P4_1 Destaque de Perú en Deportes,3.7431376295115557
+3,P4_10,P4_10 Destaque de Perú en Turismo,1.6144125068589061
+3,P4_11,P4_11 Destaque de Perú en Medioambiente,4.370353343630587
+3,P4_12,P4_12 Destaque de Perú en Energía,5.342824970423536
+3,P4_13,P4_13 Destaque de Perú en Obras públicas,4.006181806377368
+3,P4_14,P4_14 Destaque de Perú en Vivienda,4.744543149511696
+3,P4_2,P4_2 Destaque de Perú en Desarrollo de la industria,4.843916990609744
+3,P4_3,P4_3 Destaque de Perú en Agricultura y ganadería,3.752872373747142
+3,P4_4,P4_4 Destaque de Perú en Minería,2.337712131482518
+3,P4_5,P4_5 Destaque de Perú en Salud,4.1115463385901325
+3,P4_6,P4_6 Destaque de Perú en Desarrollo de tecnologías,4.6711850706932045
+3,P4_7,P4_7 Destaque de Perú en Arte y cultura,4.3707309082501515
+3,P4_8,P4_8 Destaque de Perú en Investigación científica,4.626536479501566
+3,P4_9,P4_9 Destaque de Perú en Educación,4.020900025117398
+4,P26_2,P26_2 La ciencia y la tecnología son responsables por la mayor parte de los problemas medioambientales que tenemos en la...,0.31572690693535876
+4,P26_4,P26_4 Dependemos demasiado de la ciencia y no lo suficiente de la Fe.,0.30578207092593357
+4,P26_6,"P26_6 Debido a su conocimiento, los científicos tienen un poder que los vuelve peligrosos.",1.6807586277220308
+4,P30_5,P30_5 La ciencia y la tecnología están produciendo un estilo de vida artificial.,2.1188109486473587
+4,P30_9,P30_9 Quienes pagan a los científicos pueden influirlos para que lleguen a las conclusiones que les convienen.,1.6976195292386467
+4,P37_11,P37_11 Nivel de acuerdo con que la IA Hará que se pierdan más puestos de trabajo,3.699032825315454
+4,P37_12,P37_12 Nivel de acuerdo con que la IA Creará muchos más problemas que soluciones,3.314701395781568
+4,P37_14,P37_14 Nivel de acuerdo con que la IA Creará divisiones sociales,3.3480110068500912
+4,P37_16,P37_16 Nivel de acuerdo con que la IA Controlará nuestra vida privada,3.675330756028616
+4,P37_2,P37_2 Nivel de acuerdo con que la IA Amenaza el desarrollo de la sociedad,2.856152088195197
+4,P37_5,P37_5 Nivel de acuerdo con que la IA Generará muchos más daños que beneficios,2.981492450233905
+4,P37_8,P37_8 Nivel de acuerdo con que la IA Es negativa para el desarrollo de la sociedad,2.71019765845246
+4,P37_9,P37_9 Nivel de acuerdo con que la IA Aumentará el dominio de las máquinas sobre las personas,4.27755880880949
+5,P3_1,P3_1 Aprecio por la profesión de Artista,2.6024003889578746
+5,P3_10,P3_10 Aprecio por la profesión de Periodista,2.940870690923346
+5,P3_2,P3_2 Aprecio por la profesión de Juez,1.7819733486538298
+5,P3_3,P3_3 Aprecio por la profesión de Médico,3.3793653477992898
+5,P3_4,P3_4 Aprecio por la profesión de Empresario,3.1185946383204732
+5,P3_5,P3_5 Aprecio por la profesión de Religioso,1.2517767814604872
+5,P3_6,P3_6 Aprecio por la profesión de Científico,3.395771493986586
+5,P3_7,P3_7 Aprecio por la profesión de Deportista,2.5186356830938528
+5,P3_8,P3_8 Aprecio por la profesión de Profesor,3.118966008363654
+5,P3_9,P3_9 Aprecio por la profesión de Ingeniero,3.4644888912937954
+5,P6_4,P6_4 Nivel de interés en Religión,1.1296316764790322
+5,P7_4,P7_4 Nivel de información en Religión,1.0464188056444188
+6,P11,P11 Qué tan atractiva diría que es la profesión de Científico,0.9976777022595507
+6,P12,P12 Qué tan gratificante diría que es la profesión de Científico,1.3899462696060463
+6,P13,P13 Qué tan remunerada diría que es la profesión de Científico,1.0486736428160988
+6,P14,P14 Qué tan prestigiosa diría que es la profesión de Científico,1.2917119818572351
+6,P22,"P22 En su opinión, ¿nuestro país está adelantado, en un lugar intermedio, o atrasado con respecto al desarrollo de la ci...",0.6482038604859075
+6,P24_1,"P24_1 Como considera que son las condiciones de Infraestructuras (edificios, laboratorios, etc.)",2.3162786487154357
+6,P24_2,"P24_2 Como considera que son las condiciones de Equipamientos (materiales, máquinas, insumos, etc.)",2.3738128683778017
+6,P24_3,P24_3 Como considera que son las condiciones de Salarios,2.2049205860901093
+6,P24_4,P24_4 Como considera que son las condiciones de para conseguir trabajo en una universidad o instituto público de investi...,2.003748158524118
+6,P24_5,P24_5 Como considera que son las condiciones de para conseguir trabajo en una empresa,1.7910037967640575
+7,P5_1,P5_1 Visitó un museo de arte en el último año,1.0632745614592949
+7,P5_2,P5_2 Visitó un museo de ciencia en el último año,0.6970662700106485
+7,P5_3,P5_3 Visitó un zoológico o acuario en el último año,0.7846730525396335
+7,P5_4,P5_4 Visitó un parque nacional o reserva natural en el último año,0.7562321005995645
+7,P5_5,P5_5 Visitó un laboratorio o institución de ciencia y tecnología en el último año,0.6521199146375282
+7,P5_6,P5_6 Realizó alguna actividad de la Semana Nacional de la Ciencia en el último año,0.30209085898709764
+8,P1_1,P1_1 Nivel de satisfacción con la situación social del país,1.4580451363653024
+8,P1_2,P1_2 Nivel de satisfacción con la situación económica del país,1.3522981730519152
+8,P1_3,P1_3 Nivel de satisfacción con la situación ambiental del país,1.30491800454182
+8,P1_4,P1_4 Nivel de satisfacción con la calidad de la democracia,1.3698181811543069
+9,P15,P15 ¿Conoce alguna institución que se dedique a hacer investigación científica y tecnológica en nuestro país?,0.0
+10,P18,P18 El Estado destina recursos económicos para financiar la investigación científica y el desarrollo tecnológico en nues...,0.0
+11,P19,P19 Dígame si está de acuerdo o en desacuerdo con la siguiente afirmación: “El Estado debe aumentar los recursos que des...,0.0
+12,P25,P25 ¿Cree que en el futuro la investigación científica y el desarrollo tecnológico van a tener en el Perú un lugar muy d...,0.0
+13,P26_8,P26_8 Los científicos no se esfuerzan demasiado en informar al público sobre su trabajo.,0.0
+14,P2,"P2 ¿Diría que nuestro país está progresando, está estancado o está en retroceso?",0.0

@@ -1,0 +1,5 @@
+threshold,nodes,edges,components,n_communities,largest_component,modularity,method
+0.25,110,664,2,8,109,0.6514288019113605,louvain
+0.3,110,429,8,14,98,0.7451471265494729,louvain
+0.35,110,271,21,26,35,0.8151284772113689,louvain
+0.4,110,173,31,34,20,0.8697907644515777,louvain
